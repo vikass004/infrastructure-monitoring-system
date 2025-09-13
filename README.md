@@ -239,6 +239,3 @@ This project demonstrates:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-**⭐ Star this repository if it helped you!**
