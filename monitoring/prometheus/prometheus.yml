@@ -1,0 +1,56 @@
+global:
+  scrape_interval: 15s
+  evaluation_interval: 15s
+
+rule_files:
+  - "alert_rules.yml"
+
+alerting:
+  alertmanagers:
+    - static_configs:
+        - targets:
+          - alertmanager:9093
+
+scrape_configs:
+  # Prometheus itself
+  - job_name: 'prometheus'
+    static_configs:
+      - targets: ['localhost:9090']
+
+  # Node Exporter for system metrics
+  - job_name: 'node_exporter'
+    static_configs:
+      - targets: ['node_exporter:9100']
+    scrape_interval: 30s
+    metrics_path: /metrics
+
+  # Windows Exporter (for Windows systems)
+  - job_name: 'windows_exporter'
+    static_configs:
+      - targets: ['host.docker.internal:9182']
+    scrape_interval: 30s
+    metrics_path: /metrics
+
+  # Custom application monitoring
+  - job_name: 'custom_apps'
+    static_configs:
+      - targets: ['app:8080']
+    scrape_interval: 60s
+
+  # Database monitoring (example for PostgreSQL)
+  - job_name: 'postgres_exporter'
+    static_configs:
+      - targets: ['postgres_exporter:9187']
+    scrape_interval: 30s
+
+  # Network monitoring
+  - job_name: 'blackbox_exporter'
+    static_configs:
+      - targets: ['blackbox_exporter:9115']
+    scrape_interval: 60s
+
+  # Container monitoring (cAdvisor)
+  - job_name: 'cadvisor'
+    static_configs:
+      - targets: ['cadvisor:8080']
+    scrape_interval: 30s

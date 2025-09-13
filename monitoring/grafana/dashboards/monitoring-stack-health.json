@@ -1,0 +1,135 @@
+{
+  "dashboard": {
+    "id": null,
+    "title": "Monitoring Stack Health",
+    "tags": ["monitoring", "prometheus", "grafana", "health"],
+    "style": "dark",
+    "timezone": "browser",
+    "panels": [
+      {
+        "id": 1,
+        "title": "Service Availability",
+        "type": "stat",
+        "targets": [
+          {
+            "expr": "up{job=\"prometheus\"}",
+            "legendFormat": "Prometheus"
+          },
+          {
+            "expr": "up{job=\"node_exporter\"}",
+            "legendFormat": "Node Exporter"
+          },
+          {
+            "expr": "up{job=\"cadvisor\"}",
+            "legendFormat": "cAdvisor"
+          },
+          {
+            "expr": "up{job=\"blackbox_exporter\"}",
+            "legendFormat": "Blackbox Exporter"
+          }
+        ],
+        "fieldConfig": {
+          "defaults": {
+            "color": {
+              "mode": "thresholds"
+            },
+            "thresholds": {
+              "steps": [
+                {"color": "red", "value": 0},
+                {"color": "green", "value": 1}
+              ]
+            },
+            "mappings": [
+              {"options": {"0": {"text": "DOWN"}}, "type": "value"},
+              {"options": {"1": {"text": "UP"}}, "type": "value"}
+            ]
+          }
+        },
+        "gridPos": {"h": 8, "w": 8, "x": 0, "y": 0}
+      },
+      {
+        "id": 2,
+        "title": "Prometheus Query Rate",
+        "type": "graph",
+        "targets": [
+          {
+            "expr": "rate(prometheus_http_requests_total[5m])",
+            "legendFormat": "{{handler}} - {{code}}"
+          }
+        ],
+        "yAxes": [
+          {"min": 0, "unit": "reqps"}
+        ],
+        "gridPos": {"h": 8, "w": 8, "x": 8, "y": 0}
+      },
+      {
+        "id": 3,
+        "title": "Prometheus Storage",
+        "type": "graph",
+        "targets": [
+          {
+            "expr": "prometheus_tsdb_symbol_table_size_bytes / 1024 / 1024",
+            "legendFormat": "Symbol Table Size (MB)"
+          },
+          {
+            "expr": "prometheus_tsdb_head_series",
+            "legendFormat": "Head Series Count"
+          }
+        ],
+        "gridPos": {"h": 8, "w": 8, "x": 16, "y": 0}
+      },
+      {
+        "id": 4,
+        "title": "Alert Rules",
+        "type": "graph",
+        "targets": [
+          {
+            "expr": "prometheus_rule_group_rules",
+            "legendFormat": "Total Rules"
+          },
+          {
+            "expr": "prometheus_notifications_total",
+            "legendFormat": "Notifications Sent"
+          }
+        ],
+        "yAxes": [
+          {"min": 0}
+        ],
+        "gridPos": {"h": 8, "w": 12, "x": 0, "y": 8}
+      },
+      {
+        "id": 5,
+        "title": "Scrape Duration",
+        "type": "graph",
+        "targets": [
+          {
+            "expr": "prometheus_target_scrape_duration_seconds",
+            "legendFormat": "{{job}} - {{instance}}"
+          }
+        ],
+        "yAxes": [
+          {"min": 0, "unit": "s"}
+        ],
+        "gridPos": {"h": 8, "w": 12, "x": 12, "y": 8}
+      },
+      {
+        "id": 6,
+        "title": "Active Alerts",
+        "type": "table",
+        "targets": [
+          {
+            "expr": "ALERTS{alertstate=\"firing\"}",
+            "format": "table",
+            "instant": true
+          }
+        ],
+        "gridPos": {"h": 8, "w": 24, "x": 0, "y": 16}
+      }
+    ],
+    "time": {
+      "from": "now-1h",
+      "to": "now"
+    },
+    "refresh": "30s"
+  }
+}

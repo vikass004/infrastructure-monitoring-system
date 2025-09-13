@@ -1,0 +1,36 @@
+2025-09-12 23:03:00,862 - INFO - Starting System Health Monitor
+2025-09-12 23:03:00,862 - INFO - SystemHealthMonitor initialized
+2025-09-12 23:03:00,862 - INFO - Starting comprehensive health check
+2025-09-12 23:03:02,864 - INFO - Collected 21 cpu metrics
+2025-09-12 23:03:03,017 - INFO - Collected 9 memory metrics
+2025-09-12 23:03:03,017 - ERROR - Error collecting disk metrics: argument 1 (impossible<bad format char>)
+2025-09-12 23:03:03,018 - INFO - Collected 0 disk metrics
+2025-09-12 23:03:03,025 - INFO - Collected 57 network metrics
+2025-09-12 23:03:03,752 - INFO - Collected 4 process metrics
+2025-09-12 23:03:03,754 - INFO - Health check completed in 2.89 seconds
+2025-09-12 23:03:03,754 - INFO - Collected 99 total metrics
+2025-09-12 23:03:03,755 - INFO - Metrics saved to automation/logs/health_metrics_20250912_230303.json
+2025-09-12 23:03:43,041 - INFO - Starting System Health Monitor
+2025-09-12 23:03:43,042 - INFO - SystemHealthMonitor initialized
+2025-09-12 23:03:43,042 - INFO - Starting comprehensive health check
+2025-09-12 23:03:45,044 - INFO - Collected 21 cpu metrics
+2025-09-12 23:03:45,188 - INFO - Collected 9 memory metrics
+2025-09-12 23:03:45,188 - ERROR - Error collecting disk metrics: argument 1 (impossible<bad format char>)
+2025-09-12 23:03:45,188 - INFO - Collected 0 disk metrics
+2025-09-12 23:03:45,195 - INFO - Collected 57 network metrics
+2025-09-12 23:03:46,157 - INFO - Collected 4 process metrics
+2025-09-12 23:03:46,158 - INFO - Health check completed in 3.12 seconds
+2025-09-12 23:03:46,158 - INFO - Collected 99 total metrics
+2025-09-12 23:03:46,160 - INFO - Metrics saved to automation/logs/health_metrics_20250912_230346.json
+2025-09-12 23:05:26,134 - INFO - Starting System Health Monitor
+2025-09-12 23:05:26,134 - INFO - SystemHealthMonitor initialized
+2025-09-12 23:05:26,134 - INFO - Starting comprehensive health check
+2025-09-12 23:05:28,135 - INFO - Collected 21 cpu metrics
+2025-09-12 23:05:28,277 - INFO - Collected 9 memory metrics
+2025-09-12 23:05:28,277 - ERROR - Error collecting disk metrics: argument 1 (impossible<bad format char>)
+2025-09-12 23:05:28,278 - INFO - Collected 0 disk metrics
+2025-09-12 23:05:28,284 - INFO - Collected 57 network metrics
+2025-09-12 23:05:29,176 - INFO - Collected 4 process metrics
+2025-09-12 23:05:29,177 - INFO - Health check completed in 3.04 seconds
+2025-09-12 23:05:29,177 - INFO - Collected 99 total metrics
+2025-09-12 23:05:29,177 - INFO - Metrics saved to automation/logs/health_metrics_20250912_230529.json

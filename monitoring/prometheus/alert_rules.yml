@@ -1,0 +1,90 @@
+groups:
+  - name: infrastructure_alerts
+    rules:
+      # High CPU usage alert
+      - alert: HighCPUUsage
+        expr: 100 - (avg by(instance) (irate(node_cpu_seconds_total{mode="idle"}[5m])) * 100) > 80
+        for: 5m
+        labels:
+          severity: warning
+          category: performance
+        annotations:
+          summary: "High CPU usage detected on {{ $labels.instance }}"
+          description: "CPU usage is above 80% for more than 5 minutes on {{ $labels.instance }}. Current value: {{ $value }}%"
+
+      # High memory usage alert
+      - alert: HighMemoryUsage
+        expr: (1 - (node_memory_MemAvailable_bytes / node_memory_MemTotal_bytes)) * 100 > 90
+        for: 3m
+        labels:
+          severity: critical
+          category: performance
+        annotations:
+          summary: "High memory usage detected on {{ $labels.instance }}"
+          description: "Memory usage is above 90% for more than 3 minutes on {{ $labels.instance }}. Current value: {{ $value }}%"
+
+      # Low disk space alert
+      - alert: LowDiskSpace
+        expr: (node_filesystem_avail_bytes{fstype!="tmpfs"} / node_filesystem_size_bytes{fstype!="tmpfs"}) * 100 < 20
+        for: 2m
+        labels:
+          severity: warning
+          category: capacity
+        annotations:
+          summary: "Low disk space on {{ $labels.instance }}"
+          description: "Disk space is below 20% on {{ $labels.device }} mounted at {{ $labels.mountpoint }}. Current value: {{ $value }}%"
+
+      # Critical disk space alert
+      - alert: CriticalDiskSpace
+        expr: (node_filesystem_avail_bytes{fstype!="tmpfs"} / node_filesystem_size_bytes{fstype!="tmpfs"}) * 100 < 10
+        for: 1m
+        labels:
+          severity: critical
+          category: capacity
+        annotations:
+          summary: "Critical disk space on {{ $labels.instance }}"
+          description: "Disk space is below 10% on {{ $labels.device }} mounted at {{ $labels.mountpoint }}. Current value: {{ $value }}%"
+
+      # Service down alert
+      - alert: ServiceDown
+        expr: up == 0
+        for: 1m
+        labels:
+          severity: critical
+          category: availability
+        annotations:
+          summary: "Service {{ $labels.job }} is down"
+          description: "Service {{ $labels.job }} on {{ $labels.instance }} has been down for more than 1 minute"
+
+      # High network traffic alert
+      - alert: HighNetworkTraffic
+        expr: rate(node_network_receive_bytes_total[5m]) > 10485760  # 10MB/s
+        for: 5m
+        labels:
+          severity: warning
+          category: network
+        annotations:
+          summary: "High network traffic on {{ $labels.instance }}"
+          description: "Network receive traffic is above 10MB/s on interface {{ $labels.device }}. Current value: {{ $value }} bytes/s"
+
+      # Database connection alert
+      - alert: DatabaseConnectionFailure
+        expr: pg_up == 0
+        for: 2m
+        labels:
+          severity: critical
+          category: database
+        annotations:
+          summary: "Database connection failure"
+          description: "Cannot connect to PostgreSQL database on {{ $labels.instance }}"
+
+      # Load average alert
+      - alert: HighLoadAverage
+        expr: node_load1 > 4
+        for: 10m
+        labels:
+          severity: warning
+          category: performance
+        annotations:
+          summary: "High load average on {{ $labels.instance }}"
+          description: "Load average is above 4 for more than 10 minutes. Current value: {{ $value }}"

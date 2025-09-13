@@ -1,0 +1,26 @@
+# Logs
+monitoring/python/logs/*.json
+monitoring/python/logs/*.log
+
+# Docker volumes
+prometheus_data/
+grafana_data/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/

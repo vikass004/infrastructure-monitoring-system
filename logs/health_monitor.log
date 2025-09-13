@@ -1,0 +1,2035 @@
+2025-09-12 17:40:32,981 - INFO - Starting System Health Monitor
+2025-09-12 17:40:32,982 - INFO - SystemHealthMonitor initialized
+2025-09-12 17:40:32,982 - INFO - Starting comprehensive health check
+2025-09-12 17:40:34,986 - INFO - Collected 21 cpu metrics
+2025-09-12 17:40:34,987 - INFO - Collected 9 memory metrics
+2025-09-12 17:40:34,988 - INFO - Collected 16 disk metrics
+2025-09-12 17:40:34,990 - INFO - Collected 17 network metrics
+2025-09-12 17:40:34,991 - INFO - Collected 4 process metrics
+2025-09-12 17:40:34,991 - INFO - Health check completed in 2.01 seconds
+2025-09-12 17:40:34,992 - INFO - Collected 75 total metrics
+2025-09-12 17:40:34,996 - INFO - Metrics saved to /app/logs/health_metrics_20250912_174034.json
+2025-09-12 17:40:35,660 - INFO - Starting System Health Monitor
+2025-09-12 17:40:35,660 - INFO - SystemHealthMonitor initialized
+2025-09-12 17:40:35,661 - INFO - Starting comprehensive health check
+2025-09-12 17:40:37,663 - INFO - Collected 21 cpu metrics
+2025-09-12 17:40:37,664 - INFO - Collected 9 memory metrics
+2025-09-12 17:40:37,665 - INFO - Collected 16 disk metrics
+2025-09-12 17:40:37,666 - INFO - Collected 17 network metrics
+2025-09-12 17:40:37,666 - INFO - Collected 4 process metrics
+2025-09-12 17:40:37,667 - INFO - Health check completed in 2.01 seconds
+2025-09-12 17:40:37,667 - INFO - Collected 75 total metrics
+2025-09-12 17:40:37,669 - INFO - Metrics saved to /app/logs/health_metrics_20250912_174037.json
+2025-09-12 17:40:38,333 - INFO - Starting System Health Monitor
+2025-09-12 17:40:38,333 - INFO - SystemHealthMonitor initialized
+2025-09-12 17:40:38,333 - INFO - Starting comprehensive health check
+2025-09-12 17:40:40,336 - INFO - Collected 21 cpu metrics
+2025-09-12 17:40:40,337 - INFO - Collected 9 memory metrics
+2025-09-12 17:40:40,339 - INFO - Collected 16 disk metrics
+2025-09-12 17:40:40,340 - INFO - Collected 17 network metrics
+2025-09-12 17:40:40,341 - INFO - Collected 4 process metrics
+2025-09-12 17:40:40,341 - INFO - Health check completed in 2.01 seconds
+2025-09-12 17:40:40,341 - INFO - Collected 75 total metrics
+2025-09-12 17:40:40,345 - INFO - Metrics saved to /app/logs/health_metrics_20250912_174040.json
+2025-09-12 17:40:41,163 - INFO - Starting System Health Monitor
+2025-09-12 17:40:41,163 - INFO - SystemHealthMonitor initialized
+2025-09-12 17:40:41,163 - INFO - Starting comprehensive health check
+2025-09-12 17:40:43,166 - INFO - Collected 21 cpu metrics
+2025-09-12 17:40:43,167 - INFO - Collected 9 memory metrics
+2025-09-12 17:40:43,168 - INFO - Collected 16 disk metrics
+2025-09-12 17:40:43,170 - INFO - Collected 17 network metrics
+2025-09-12 17:40:43,170 - INFO - Collected 4 process metrics
+2025-09-12 17:40:43,170 - INFO - Health check completed in 2.01 seconds
+2025-09-12 17:40:43,171 - INFO - Collected 75 total metrics
+2025-09-12 17:40:43,174 - INFO - Metrics saved to /app/logs/health_metrics_20250912_174043.json
+2025-09-12 17:40:44,390 - INFO - Starting System Health Monitor
+2025-09-12 17:40:44,390 - INFO - SystemHealthMonitor initialized
+2025-09-12 17:40:44,391 - INFO - Starting comprehensive health check
+2025-09-12 17:40:46,395 - INFO - Collected 21 cpu metrics
+2025-09-12 17:40:46,396 - INFO - Collected 9 memory metrics
+2025-09-12 17:40:46,397 - INFO - Collected 16 disk metrics
+2025-09-12 17:40:46,399 - INFO - Collected 17 network metrics
+2025-09-12 17:40:46,400 - INFO - Collected 4 process metrics
+2025-09-12 17:40:46,400 - INFO - Health check completed in 2.01 seconds
+2025-09-12 17:40:46,400 - INFO - Collected 75 total metrics
+2025-09-12 17:40:46,403 - INFO - Metrics saved to /app/logs/health_metrics_20250912_174046.json
+2025-09-12 17:40:48,413 - INFO - Starting System Health Monitor
+2025-09-12 17:40:48,413 - INFO - SystemHealthMonitor initialized
+2025-09-12 17:40:48,413 - INFO - Starting comprehensive health check
+2025-09-12 17:40:50,417 - INFO - Collected 21 cpu metrics
+2025-09-12 17:40:50,419 - INFO - Collected 9 memory metrics
+2025-09-12 17:40:50,420 - INFO - Collected 16 disk metrics
+2025-09-12 17:40:50,421 - INFO - Collected 17 network metrics
+2025-09-12 17:40:50,423 - INFO - Collected 4 process metrics
+2025-09-12 17:40:50,423 - INFO - Health check completed in 2.01 seconds
+2025-09-12 17:40:50,423 - INFO - Collected 75 total metrics
+2025-09-12 17:40:50,426 - INFO - Metrics saved to /app/logs/health_metrics_20250912_174050.json
+2025-09-12 17:40:54,078 - INFO - Starting System Health Monitor
+2025-09-12 17:40:54,079 - INFO - SystemHealthMonitor initialized
+2025-09-12 17:40:54,079 - INFO - Starting comprehensive health check
+2025-09-12 17:40:56,083 - INFO - Collected 21 cpu metrics
+2025-09-12 17:40:56,084 - INFO - Collected 9 memory metrics
+2025-09-12 17:40:56,085 - INFO - Collected 16 disk metrics
+2025-09-12 17:40:56,087 - INFO - Collected 17 network metrics
+2025-09-12 17:40:56,088 - INFO - Collected 4 process metrics
+2025-09-12 17:40:56,088 - INFO - Health check completed in 2.01 seconds
+2025-09-12 17:40:56,088 - INFO - Collected 75 total metrics
+2025-09-12 17:40:56,091 - INFO - Metrics saved to /app/logs/health_metrics_20250912_174056.json
+2025-09-12 17:41:02,946 - INFO - Starting System Health Monitor
+2025-09-12 17:41:02,947 - INFO - SystemHealthMonitor initialized
+2025-09-12 17:41:02,947 - INFO - Starting comprehensive health check
+2025-09-12 17:41:04,950 - INFO - Collected 21 cpu metrics
+2025-09-12 17:41:04,952 - INFO - Collected 9 memory metrics
+2025-09-12 17:41:04,953 - INFO - Collected 16 disk metrics
+2025-09-12 17:41:04,955 - INFO - Collected 17 network metrics
+2025-09-12 17:41:04,955 - INFO - Collected 4 process metrics
+2025-09-12 17:41:04,956 - INFO - Health check completed in 2.01 seconds
+2025-09-12 17:41:04,956 - INFO - Collected 75 total metrics
+2025-09-12 17:41:04,960 - INFO - Metrics saved to /app/logs/health_metrics_20250912_174104.json
+2025-09-12 17:41:18,177 - INFO - Starting System Health Monitor
+2025-09-12 17:41:18,177 - INFO - SystemHealthMonitor initialized
+2025-09-12 17:41:18,178 - INFO - Starting comprehensive health check
+2025-09-12 17:41:20,181 - INFO - Collected 21 cpu metrics
+2025-09-12 17:41:20,182 - INFO - Collected 9 memory metrics
+2025-09-12 17:41:20,183 - INFO - Collected 16 disk metrics
+2025-09-12 17:41:20,184 - INFO - Collected 17 network metrics
+2025-09-12 17:41:20,185 - INFO - Collected 4 process metrics
+2025-09-12 17:41:20,186 - INFO - Health check completed in 2.01 seconds
+2025-09-12 17:41:20,186 - INFO - Collected 75 total metrics
+2025-09-12 17:41:20,190 - INFO - Metrics saved to /app/logs/health_metrics_20250912_174120.json
+2025-09-12 17:41:30,838 - INFO - Starting System Health Monitor
+2025-09-12 17:41:30,838 - INFO - SystemHealthMonitor initialized
+2025-09-12 17:41:30,839 - INFO - Starting comprehensive health check
+2025-09-12 17:41:32,842 - INFO - Collected 21 cpu metrics
+2025-09-12 17:41:32,842 - INFO - Collected 9 memory metrics
+2025-09-12 17:41:32,844 - INFO - Collected 16 disk metrics
+2025-09-12 17:41:32,846 - INFO - Collected 17 network metrics
+2025-09-12 17:41:32,846 - INFO - Collected 4 process metrics
+2025-09-12 17:41:32,847 - INFO - Health check completed in 2.01 seconds
+2025-09-12 17:41:32,847 - INFO - Collected 75 total metrics
+2025-09-12 17:41:32,851 - INFO - Metrics saved to /app/logs/health_metrics_20250912_174132.json
+2025-09-12 17:41:33,491 - INFO - Starting System Health Monitor
+2025-09-12 17:41:33,492 - INFO - SystemHealthMonitor initialized
+2025-09-12 17:41:33,492 - INFO - Starting comprehensive health check
+2025-09-12 17:41:35,496 - INFO - Collected 21 cpu metrics
+2025-09-12 17:41:35,497 - INFO - Collected 9 memory metrics
+2025-09-12 17:41:35,499 - INFO - Collected 16 disk metrics
+2025-09-12 17:41:35,501 - INFO - Collected 17 network metrics
+2025-09-12 17:41:35,502 - INFO - Collected 4 process metrics
+2025-09-12 17:41:35,502 - INFO - Health check completed in 2.01 seconds
+2025-09-12 17:41:35,503 - INFO - Collected 75 total metrics
+2025-09-12 17:41:35,507 - INFO - Metrics saved to /app/logs/health_metrics_20250912_174135.json
+2025-09-12 17:41:36,219 - INFO - Starting System Health Monitor
+2025-09-12 17:41:36,219 - INFO - SystemHealthMonitor initialized
+2025-09-12 17:41:36,220 - INFO - Starting comprehensive health check
+2025-09-12 17:41:38,223 - INFO - Collected 21 cpu metrics
+2025-09-12 17:41:38,224 - INFO - Collected 9 memory metrics
+2025-09-12 17:41:38,225 - INFO - Collected 16 disk metrics
+2025-09-12 17:41:38,227 - INFO - Collected 17 network metrics
+2025-09-12 17:41:38,227 - INFO - Collected 4 process metrics
+2025-09-12 17:41:38,228 - INFO - Health check completed in 2.01 seconds
+2025-09-12 17:41:38,228 - INFO - Collected 75 total metrics
+2025-09-12 17:41:38,233 - INFO - Metrics saved to /app/logs/health_metrics_20250912_174138.json
+2025-09-12 17:41:39,118 - INFO - Starting System Health Monitor
+2025-09-12 17:41:39,118 - INFO - SystemHealthMonitor initialized
+2025-09-12 17:41:39,118 - INFO - Starting comprehensive health check
+2025-09-12 17:41:41,122 - INFO - Collected 21 cpu metrics
+2025-09-12 17:41:41,123 - INFO - Collected 9 memory metrics
+2025-09-12 17:41:41,124 - INFO - Collected 16 disk metrics
+2025-09-12 17:41:41,127 - INFO - Collected 17 network metrics
+2025-09-12 17:41:41,128 - INFO - Collected 4 process metrics
+2025-09-12 17:41:41,128 - INFO - Health check completed in 2.01 seconds
+2025-09-12 17:41:41,129 - INFO - Collected 75 total metrics
+2025-09-12 17:41:41,134 - INFO - Metrics saved to /app/logs/health_metrics_20250912_174141.json
+2025-09-12 17:41:42,503 - INFO - Starting System Health Monitor
+2025-09-12 17:41:42,503 - INFO - SystemHealthMonitor initialized
+2025-09-12 17:41:42,503 - INFO - Starting comprehensive health check
+2025-09-12 17:41:44,505 - INFO - Collected 21 cpu metrics
+2025-09-12 17:41:44,506 - INFO - Collected 9 memory metrics
+2025-09-12 17:41:44,507 - INFO - Collected 16 disk metrics
+2025-09-12 17:41:44,509 - INFO - Collected 17 network metrics
+2025-09-12 17:41:44,510 - INFO - Collected 4 process metrics
+2025-09-12 17:41:44,511 - INFO - Health check completed in 2.01 seconds
+2025-09-12 17:41:44,511 - INFO - Collected 75 total metrics
+2025-09-12 17:41:44,515 - INFO - Metrics saved to /app/logs/health_metrics_20250912_174144.json
+2025-09-12 17:41:46,685 - INFO - Starting System Health Monitor
+2025-09-12 17:41:46,685 - INFO - SystemHealthMonitor initialized
+2025-09-12 17:41:46,685 - INFO - Starting comprehensive health check
+2025-09-12 17:41:48,689 - INFO - Collected 21 cpu metrics
+2025-09-12 17:41:48,690 - INFO - Collected 9 memory metrics
+2025-09-12 17:41:48,692 - INFO - Collected 16 disk metrics
+2025-09-12 17:41:48,694 - INFO - Collected 17 network metrics
+2025-09-12 17:41:48,695 - INFO - Collected 4 process metrics
+2025-09-12 17:41:48,695 - INFO - Health check completed in 2.01 seconds
+2025-09-12 17:41:48,695 - INFO - Collected 75 total metrics
+2025-09-12 17:41:48,700 - INFO - Metrics saved to /app/logs/health_metrics_20250912_174148.json
+2025-09-12 17:41:52,393 - INFO - Starting System Health Monitor
+2025-09-12 17:41:52,393 - INFO - SystemHealthMonitor initialized
+2025-09-12 17:41:52,394 - INFO - Starting comprehensive health check
+2025-09-12 17:41:54,399 - INFO - Collected 21 cpu metrics
+2025-09-12 17:41:54,400 - INFO - Collected 9 memory metrics
+2025-09-12 17:41:54,401 - INFO - Collected 16 disk metrics
+2025-09-12 17:41:54,403 - INFO - Collected 17 network metrics
+2025-09-12 17:41:54,403 - INFO - Collected 4 process metrics
+2025-09-12 17:41:54,404 - INFO - Health check completed in 2.01 seconds
+2025-09-12 17:41:54,404 - INFO - Collected 75 total metrics
+2025-09-12 17:41:54,407 - INFO - Metrics saved to /app/logs/health_metrics_20250912_174154.json
+2025-09-12 17:42:01,256 - INFO - Starting System Health Monitor
+2025-09-12 17:42:01,256 - INFO - SystemHealthMonitor initialized
+2025-09-12 17:42:01,256 - INFO - Starting comprehensive health check
+2025-09-12 17:42:03,260 - INFO - Collected 21 cpu metrics
+2025-09-12 17:42:03,260 - INFO - Collected 9 memory metrics
+2025-09-12 17:42:03,262 - INFO - Collected 16 disk metrics
+2025-09-12 17:42:03,263 - INFO - Collected 17 network metrics
+2025-09-12 17:42:03,264 - INFO - Collected 4 process metrics
+2025-09-12 17:42:03,264 - INFO - Health check completed in 2.01 seconds
+2025-09-12 17:42:03,265 - INFO - Collected 75 total metrics
+2025-09-12 17:42:03,270 - INFO - Metrics saved to /app/logs/health_metrics_20250912_174203.json
+2025-09-12 17:42:16,529 - INFO - Starting System Health Monitor
+2025-09-12 17:42:16,530 - INFO - SystemHealthMonitor initialized
+2025-09-12 17:42:16,530 - INFO - Starting comprehensive health check
+2025-09-12 17:42:18,534 - INFO - Collected 21 cpu metrics
+2025-09-12 17:42:18,535 - INFO - Collected 9 memory metrics
+2025-09-12 17:42:18,536 - INFO - Collected 16 disk metrics
+2025-09-12 17:42:18,538 - INFO - Collected 17 network metrics
+2025-09-12 17:42:18,538 - INFO - Collected 4 process metrics
+2025-09-12 17:42:18,539 - INFO - Health check completed in 2.01 seconds
+2025-09-12 17:42:18,539 - INFO - Collected 75 total metrics
+2025-09-12 17:42:18,543 - INFO - Metrics saved to /app/logs/health_metrics_20250912_174218.json
+2025-09-12 17:42:44,636 - INFO - Starting System Health Monitor
+2025-09-12 17:42:44,637 - INFO - SystemHealthMonitor initialized
+2025-09-12 17:42:44,637 - INFO - Starting comprehensive health check
+2025-09-12 17:42:46,641 - INFO - Collected 21 cpu metrics
+2025-09-12 17:42:46,642 - INFO - Collected 9 memory metrics
+2025-09-12 17:42:46,643 - INFO - Collected 16 disk metrics
+2025-09-12 17:42:46,645 - INFO - Collected 17 network metrics
+2025-09-12 17:42:46,645 - INFO - Collected 4 process metrics
+2025-09-12 17:42:46,646 - INFO - Health check completed in 2.01 seconds
+2025-09-12 17:42:46,646 - INFO - Collected 75 total metrics
+2025-09-12 17:42:46,649 - INFO - Metrics saved to /app/logs/health_metrics_20250912_174246.json
+2025-09-12 17:43:38,297 - INFO - Starting System Health Monitor
+2025-09-12 17:43:38,297 - INFO - SystemHealthMonitor initialized
+2025-09-12 17:43:38,298 - INFO - Starting comprehensive health check
+2025-09-12 17:43:40,301 - INFO - Collected 21 cpu metrics
+2025-09-12 17:43:40,303 - INFO - Collected 9 memory metrics
+2025-09-12 17:43:40,304 - INFO - Collected 16 disk metrics
+2025-09-12 17:43:40,306 - INFO - Collected 17 network metrics
+2025-09-12 17:43:40,306 - INFO - Collected 4 process metrics
+2025-09-12 17:43:40,307 - INFO - Health check completed in 2.01 seconds
+2025-09-12 17:43:40,307 - INFO - Collected 75 total metrics
+2025-09-12 17:43:40,311 - INFO - Metrics saved to /app/logs/health_metrics_20250912_174340.json
+2025-09-12 17:44:40,791 - INFO - Starting System Health Monitor
+2025-09-12 17:44:40,792 - INFO - SystemHealthMonitor initialized
+2025-09-12 17:44:40,793 - INFO - Starting comprehensive health check
+2025-09-12 17:44:42,796 - INFO - Collected 21 cpu metrics
+2025-09-12 17:44:42,797 - INFO - Collected 9 memory metrics
+2025-09-12 17:44:42,799 - INFO - Collected 16 disk metrics
+2025-09-12 17:44:42,801 - INFO - Collected 17 network metrics
+2025-09-12 17:44:42,802 - INFO - Collected 4 process metrics
+2025-09-12 17:44:42,802 - INFO - Health check completed in 2.01 seconds
+2025-09-12 17:44:42,803 - INFO - Collected 75 total metrics
+2025-09-12 17:44:42,805 - INFO - Metrics saved to /app/logs/health_metrics_20250912_174442.json
+2025-09-12 17:45:43,286 - INFO - Starting System Health Monitor
+2025-09-12 17:45:43,286 - INFO - SystemHealthMonitor initialized
+2025-09-12 17:45:43,286 - INFO - Starting comprehensive health check
+2025-09-12 17:45:45,290 - INFO - Collected 21 cpu metrics
+2025-09-12 17:45:45,291 - INFO - Collected 9 memory metrics
+2025-09-12 17:45:45,292 - INFO - Collected 16 disk metrics
+2025-09-12 17:45:45,293 - INFO - Collected 17 network metrics
+2025-09-12 17:45:45,294 - INFO - Collected 4 process metrics
+2025-09-12 17:45:45,295 - INFO - Health check completed in 2.01 seconds
+2025-09-12 17:45:45,295 - INFO - Collected 75 total metrics
+2025-09-12 17:45:45,301 - INFO - Metrics saved to /app/logs/health_metrics_20250912_174545.json
+2025-09-12 17:46:45,757 - INFO - Starting System Health Monitor
+2025-09-12 17:46:45,758 - INFO - SystemHealthMonitor initialized
+2025-09-12 17:46:45,758 - INFO - Starting comprehensive health check
+2025-09-12 17:46:47,761 - INFO - Collected 21 cpu metrics
+2025-09-12 17:46:47,762 - INFO - Collected 9 memory metrics
+2025-09-12 17:46:47,764 - INFO - Collected 16 disk metrics
+2025-09-12 17:46:47,766 - INFO - Collected 17 network metrics
+2025-09-12 17:46:47,767 - INFO - Collected 4 process metrics
+2025-09-12 17:46:47,767 - INFO - Health check completed in 2.01 seconds
+2025-09-12 17:46:47,767 - INFO - Collected 75 total metrics
+2025-09-12 17:46:47,770 - INFO - Metrics saved to /app/logs/health_metrics_20250912_174647.json
+2025-09-12 17:47:48,270 - INFO - Starting System Health Monitor
+2025-09-12 17:47:48,271 - INFO - SystemHealthMonitor initialized
+2025-09-12 17:47:48,271 - INFO - Starting comprehensive health check
+2025-09-12 17:47:50,274 - INFO - Collected 21 cpu metrics
+2025-09-12 17:47:50,275 - INFO - Collected 9 memory metrics
+2025-09-12 17:47:50,276 - INFO - Collected 16 disk metrics
+2025-09-12 17:47:50,277 - INFO - Collected 17 network metrics
+2025-09-12 17:47:50,278 - INFO - Collected 4 process metrics
+2025-09-12 17:47:50,278 - INFO - Health check completed in 2.01 seconds
+2025-09-12 17:47:50,279 - INFO - Collected 75 total metrics
+2025-09-12 17:47:50,283 - INFO - Metrics saved to /app/logs/health_metrics_20250912_174750.json
+2025-09-12 17:48:50,852 - INFO - Starting System Health Monitor
+2025-09-12 17:48:50,853 - INFO - SystemHealthMonitor initialized
+2025-09-12 17:48:50,853 - INFO - Starting comprehensive health check
+2025-09-12 17:48:52,857 - INFO - Collected 21 cpu metrics
+2025-09-12 17:48:52,858 - INFO - Collected 9 memory metrics
+2025-09-12 17:48:52,859 - INFO - Collected 16 disk metrics
+2025-09-12 17:48:52,860 - INFO - Collected 17 network metrics
+2025-09-12 17:48:52,860 - INFO - Collected 4 process metrics
+2025-09-12 17:48:52,861 - INFO - Health check completed in 2.01 seconds
+2025-09-12 17:48:52,861 - INFO - Collected 75 total metrics
+2025-09-12 17:48:52,865 - INFO - Metrics saved to /app/logs/health_metrics_20250912_174852.json
+2025-09-12 17:49:53,346 - INFO - Starting System Health Monitor
+2025-09-12 17:49:53,347 - INFO - SystemHealthMonitor initialized
+2025-09-12 17:49:53,347 - INFO - Starting comprehensive health check
+2025-09-12 17:49:55,351 - INFO - Collected 21 cpu metrics
+2025-09-12 17:49:55,352 - INFO - Collected 9 memory metrics
+2025-09-12 17:49:55,353 - INFO - Collected 16 disk metrics
+2025-09-12 17:49:55,355 - INFO - Collected 17 network metrics
+2025-09-12 17:49:55,356 - INFO - Collected 4 process metrics
+2025-09-12 17:49:55,356 - INFO - Health check completed in 2.01 seconds
+2025-09-12 17:49:55,357 - INFO - Collected 75 total metrics
+2025-09-12 17:49:55,362 - INFO - Metrics saved to /app/logs/health_metrics_20250912_174955.json
+2025-09-12 17:50:55,802 - INFO - Starting System Health Monitor
+2025-09-12 17:50:55,802 - INFO - SystemHealthMonitor initialized
+2025-09-12 17:50:55,803 - INFO - Starting comprehensive health check
+2025-09-12 17:50:57,807 - INFO - Collected 21 cpu metrics
+2025-09-12 17:50:57,808 - INFO - Collected 9 memory metrics
+2025-09-12 17:50:57,809 - INFO - Collected 16 disk metrics
+2025-09-12 17:50:57,811 - INFO - Collected 17 network metrics
+2025-09-12 17:50:57,811 - INFO - Collected 4 process metrics
+2025-09-12 17:50:57,811 - INFO - Health check completed in 2.01 seconds
+2025-09-12 17:50:57,812 - INFO - Collected 75 total metrics
+2025-09-12 17:50:57,815 - INFO - Metrics saved to /app/logs/health_metrics_20250912_175057.json
+2025-09-12 17:51:58,306 - INFO - Starting System Health Monitor
+2025-09-12 17:51:58,307 - INFO - SystemHealthMonitor initialized
+2025-09-12 17:51:58,307 - INFO - Starting comprehensive health check
+2025-09-12 17:52:00,310 - INFO - Collected 21 cpu metrics
+2025-09-12 17:52:00,311 - INFO - Collected 9 memory metrics
+2025-09-12 17:52:00,312 - INFO - Collected 16 disk metrics
+2025-09-12 17:52:00,314 - INFO - Collected 17 network metrics
+2025-09-12 17:52:00,314 - INFO - Collected 4 process metrics
+2025-09-12 17:52:00,315 - INFO - Health check completed in 2.01 seconds
+2025-09-12 17:52:00,315 - INFO - Collected 75 total metrics
+2025-09-12 17:52:00,318 - INFO - Metrics saved to /app/logs/health_metrics_20250912_175200.json
+2025-09-12 17:53:00,772 - INFO - Starting System Health Monitor
+2025-09-12 17:53:00,773 - INFO - SystemHealthMonitor initialized
+2025-09-12 17:53:00,773 - INFO - Starting comprehensive health check
+2025-09-12 17:53:02,776 - INFO - Collected 21 cpu metrics
+2025-09-12 17:53:02,777 - INFO - Collected 9 memory metrics
+2025-09-12 17:53:02,778 - INFO - Collected 16 disk metrics
+2025-09-12 17:53:02,779 - INFO - Collected 17 network metrics
+2025-09-12 17:53:02,779 - INFO - Collected 4 process metrics
+2025-09-12 17:53:02,780 - INFO - Health check completed in 2.01 seconds
+2025-09-12 17:53:02,780 - INFO - Collected 75 total metrics
+2025-09-12 17:53:02,783 - INFO - Metrics saved to /app/logs/health_metrics_20250912_175302.json
+2025-09-12 17:54:03,272 - INFO - Starting System Health Monitor
+2025-09-12 17:54:03,272 - INFO - SystemHealthMonitor initialized
+2025-09-12 17:54:03,273 - INFO - Starting comprehensive health check
+2025-09-12 17:54:05,277 - INFO - Collected 21 cpu metrics
+2025-09-12 17:54:05,278 - INFO - Collected 9 memory metrics
+2025-09-12 17:54:05,279 - INFO - Collected 16 disk metrics
+2025-09-12 17:54:05,281 - INFO - Collected 17 network metrics
+2025-09-12 17:54:05,281 - INFO - Collected 4 process metrics
+2025-09-12 17:54:05,282 - INFO - Health check completed in 2.01 seconds
+2025-09-12 17:54:05,282 - INFO - Collected 75 total metrics
+2025-09-12 17:54:05,286 - INFO - Metrics saved to /app/logs/health_metrics_20250912_175405.json
+2025-09-12 17:55:05,788 - INFO - Starting System Health Monitor
+2025-09-12 17:55:05,789 - INFO - SystemHealthMonitor initialized
+2025-09-12 17:55:05,789 - INFO - Starting comprehensive health check
+2025-09-12 17:55:07,793 - INFO - Collected 21 cpu metrics
+2025-09-12 17:55:07,793 - INFO - Collected 9 memory metrics
+2025-09-12 17:55:07,794 - INFO - Collected 16 disk metrics
+2025-09-12 17:55:07,796 - INFO - Collected 17 network metrics
+2025-09-12 17:55:07,796 - INFO - Collected 4 process metrics
+2025-09-12 17:55:07,797 - INFO - Health check completed in 2.01 seconds
+2025-09-12 17:55:07,797 - INFO - Collected 75 total metrics
+2025-09-12 17:55:07,800 - INFO - Metrics saved to /app/logs/health_metrics_20250912_175507.json
+2025-09-12 17:56:08,303 - INFO - Starting System Health Monitor
+2025-09-12 17:56:08,304 - INFO - SystemHealthMonitor initialized
+2025-09-12 17:56:08,305 - INFO - Starting comprehensive health check
+2025-09-12 17:56:10,308 - INFO - Collected 21 cpu metrics
+2025-09-12 17:56:10,310 - INFO - Collected 9 memory metrics
+2025-09-12 17:56:10,311 - INFO - Collected 16 disk metrics
+2025-09-12 17:56:10,312 - INFO - Collected 17 network metrics
+2025-09-12 17:56:10,313 - INFO - Collected 4 process metrics
+2025-09-12 17:56:10,314 - INFO - Health check completed in 2.01 seconds
+2025-09-12 17:56:10,314 - INFO - Collected 75 total metrics
+2025-09-12 17:56:10,319 - INFO - Metrics saved to /app/logs/health_metrics_20250912_175610.json
+2025-09-12 17:57:10,779 - INFO - Starting System Health Monitor
+2025-09-12 17:57:10,780 - INFO - SystemHealthMonitor initialized
+2025-09-12 17:57:10,780 - INFO - Starting comprehensive health check
+2025-09-12 17:57:12,785 - INFO - Collected 21 cpu metrics
+2025-09-12 17:57:12,787 - INFO - Collected 9 memory metrics
+2025-09-12 17:57:12,790 - INFO - Collected 16 disk metrics
+2025-09-12 17:57:12,792 - INFO - Collected 17 network metrics
+2025-09-12 17:57:12,793 - INFO - Collected 4 process metrics
+2025-09-12 17:57:12,794 - INFO - Health check completed in 2.01 seconds
+2025-09-12 17:57:12,794 - INFO - Collected 75 total metrics
+2025-09-12 17:57:12,799 - INFO - Metrics saved to /app/logs/health_metrics_20250912_175712.json
+2025-09-12 17:58:13,228 - INFO - Starting System Health Monitor
+2025-09-12 17:58:13,229 - INFO - SystemHealthMonitor initialized
+2025-09-12 17:58:13,229 - INFO - Starting comprehensive health check
+2025-09-12 17:58:15,232 - INFO - Collected 21 cpu metrics
+2025-09-12 17:58:15,233 - INFO - Collected 9 memory metrics
+2025-09-12 17:58:15,234 - INFO - Collected 16 disk metrics
+2025-09-12 17:58:15,236 - INFO - Collected 17 network metrics
+2025-09-12 17:58:15,236 - INFO - Collected 4 process metrics
+2025-09-12 17:58:15,236 - INFO - Health check completed in 2.01 seconds
+2025-09-12 17:58:15,237 - INFO - Collected 75 total metrics
+2025-09-12 17:58:15,240 - INFO - Metrics saved to /app/logs/health_metrics_20250912_175815.json
+2025-09-12 17:59:15,688 - INFO - Starting System Health Monitor
+2025-09-12 17:59:15,689 - INFO - SystemHealthMonitor initialized
+2025-09-12 17:59:15,689 - INFO - Starting comprehensive health check
+2025-09-12 17:59:17,694 - INFO - Collected 21 cpu metrics
+2025-09-12 17:59:17,695 - INFO - Collected 9 memory metrics
+2025-09-12 17:59:17,697 - INFO - Collected 16 disk metrics
+2025-09-12 17:59:17,699 - INFO - Collected 17 network metrics
+2025-09-12 17:59:17,700 - INFO - Collected 4 process metrics
+2025-09-12 17:59:17,700 - INFO - Health check completed in 2.01 seconds
+2025-09-12 17:59:17,701 - INFO - Collected 75 total metrics
+2025-09-12 17:59:17,706 - INFO - Metrics saved to /app/logs/health_metrics_20250912_175917.json
+2025-09-12 18:00:18,166 - INFO - Starting System Health Monitor
+2025-09-12 18:00:18,166 - INFO - SystemHealthMonitor initialized
+2025-09-12 18:00:18,166 - INFO - Starting comprehensive health check
+2025-09-12 18:00:20,170 - INFO - Collected 21 cpu metrics
+2025-09-12 18:00:20,170 - INFO - Collected 9 memory metrics
+2025-09-12 18:00:20,172 - INFO - Collected 16 disk metrics
+2025-09-12 18:00:20,173 - INFO - Collected 17 network metrics
+2025-09-12 18:00:20,173 - INFO - Collected 4 process metrics
+2025-09-12 18:00:20,174 - INFO - Health check completed in 2.01 seconds
+2025-09-12 18:00:20,174 - INFO - Collected 75 total metrics
+2025-09-12 18:00:20,181 - INFO - Metrics saved to /app/logs/health_metrics_20250912_180020.json
+2025-09-12 18:01:20,679 - INFO - Starting System Health Monitor
+2025-09-12 18:01:20,680 - INFO - SystemHealthMonitor initialized
+2025-09-12 18:01:20,680 - INFO - Starting comprehensive health check
+2025-09-12 18:01:22,684 - INFO - Collected 21 cpu metrics
+2025-09-12 18:01:22,686 - INFO - Collected 9 memory metrics
+2025-09-12 18:01:22,688 - INFO - Collected 16 disk metrics
+2025-09-12 18:01:22,690 - INFO - Collected 17 network metrics
+2025-09-12 18:01:22,691 - INFO - Collected 4 process metrics
+2025-09-12 18:01:22,692 - INFO - Health check completed in 2.01 seconds
+2025-09-12 18:01:22,692 - INFO - Collected 75 total metrics
+2025-09-12 18:01:22,696 - INFO - Metrics saved to /app/logs/health_metrics_20250912_180122.json
+2025-09-12 18:02:23,139 - INFO - Starting System Health Monitor
+2025-09-12 18:02:23,140 - INFO - SystemHealthMonitor initialized
+2025-09-12 18:02:23,140 - INFO - Starting comprehensive health check
+2025-09-12 18:02:25,144 - INFO - Collected 21 cpu metrics
+2025-09-12 18:02:25,145 - INFO - Collected 9 memory metrics
+2025-09-12 18:02:25,146 - INFO - Collected 16 disk metrics
+2025-09-12 18:02:25,148 - INFO - Collected 17 network metrics
+2025-09-12 18:02:25,149 - INFO - Collected 4 process metrics
+2025-09-12 18:02:25,149 - INFO - Health check completed in 2.01 seconds
+2025-09-12 18:02:25,149 - INFO - Collected 75 total metrics
+2025-09-12 18:02:25,153 - INFO - Metrics saved to /app/logs/health_metrics_20250912_180225.json
+2025-09-12 18:03:25,593 - INFO - Starting System Health Monitor
+2025-09-12 18:03:25,594 - INFO - SystemHealthMonitor initialized
+2025-09-12 18:03:25,594 - INFO - Starting comprehensive health check
+2025-09-12 18:03:27,597 - INFO - Collected 21 cpu metrics
+2025-09-12 18:03:27,598 - INFO - Collected 9 memory metrics
+2025-09-12 18:03:27,599 - INFO - Collected 16 disk metrics
+2025-09-12 18:03:27,601 - INFO - Collected 17 network metrics
+2025-09-12 18:03:27,601 - INFO - Collected 4 process metrics
+2025-09-12 18:03:27,601 - INFO - Health check completed in 2.01 seconds
+2025-09-12 18:03:27,602 - INFO - Collected 75 total metrics
+2025-09-12 18:03:27,605 - INFO - Metrics saved to /app/logs/health_metrics_20250912_180327.json
+2025-09-12 18:04:28,054 - INFO - Starting System Health Monitor
+2025-09-12 18:04:28,055 - INFO - SystemHealthMonitor initialized
+2025-09-12 18:04:28,055 - INFO - Starting comprehensive health check
+2025-09-12 18:04:30,059 - INFO - Collected 21 cpu metrics
+2025-09-12 18:04:30,060 - INFO - Collected 9 memory metrics
+2025-09-12 18:04:30,061 - INFO - Collected 16 disk metrics
+2025-09-12 18:04:30,063 - INFO - Collected 17 network metrics
+2025-09-12 18:04:30,064 - INFO - Collected 4 process metrics
+2025-09-12 18:04:30,065 - INFO - Health check completed in 2.01 seconds
+2025-09-12 18:04:30,065 - INFO - Collected 75 total metrics
+2025-09-12 18:04:30,067 - INFO - Metrics saved to /app/logs/health_metrics_20250912_180430.json
+2025-09-12 18:05:30,513 - INFO - Starting System Health Monitor
+2025-09-12 18:05:30,514 - INFO - SystemHealthMonitor initialized
+2025-09-12 18:05:30,514 - INFO - Starting comprehensive health check
+2025-09-12 18:05:32,517 - INFO - Collected 21 cpu metrics
+2025-09-12 18:05:32,518 - INFO - Collected 9 memory metrics
+2025-09-12 18:05:32,520 - INFO - Collected 16 disk metrics
+2025-09-12 18:05:32,521 - INFO - Collected 17 network metrics
+2025-09-12 18:05:32,522 - INFO - Collected 4 process metrics
+2025-09-12 18:05:32,523 - INFO - Health check completed in 2.01 seconds
+2025-09-12 18:05:32,523 - INFO - Collected 75 total metrics
+2025-09-12 18:05:32,526 - INFO - Metrics saved to /app/logs/health_metrics_20250912_180532.json
+2025-09-12 18:06:32,996 - INFO - Starting System Health Monitor
+2025-09-12 18:06:32,997 - INFO - SystemHealthMonitor initialized
+2025-09-12 18:06:32,997 - INFO - Starting comprehensive health check
+2025-09-12 18:06:35,001 - INFO - Collected 21 cpu metrics
+2025-09-12 18:06:35,004 - INFO - Collected 9 memory metrics
+2025-09-12 18:06:35,006 - INFO - Collected 16 disk metrics
+2025-09-12 18:06:35,009 - INFO - Collected 17 network metrics
+2025-09-12 18:06:35,010 - INFO - Collected 4 process metrics
+2025-09-12 18:06:35,010 - INFO - Health check completed in 2.01 seconds
+2025-09-12 18:06:35,011 - INFO - Collected 75 total metrics
+2025-09-12 18:06:35,015 - INFO - Metrics saved to /app/logs/health_metrics_20250912_180635.json
+2025-09-12 18:07:35,480 - INFO - Starting System Health Monitor
+2025-09-12 18:07:35,481 - INFO - SystemHealthMonitor initialized
+2025-09-12 18:07:35,481 - INFO - Starting comprehensive health check
+2025-09-12 18:07:37,484 - INFO - Collected 21 cpu metrics
+2025-09-12 18:07:37,486 - INFO - Collected 9 memory metrics
+2025-09-12 18:07:37,487 - INFO - Collected 16 disk metrics
+2025-09-12 18:07:37,489 - INFO - Collected 17 network metrics
+2025-09-12 18:07:37,490 - INFO - Collected 4 process metrics
+2025-09-12 18:07:37,490 - INFO - Health check completed in 2.01 seconds
+2025-09-12 18:07:37,490 - INFO - Collected 75 total metrics
+2025-09-12 18:07:37,493 - INFO - Metrics saved to /app/logs/health_metrics_20250912_180737.json
+2025-09-12 18:08:37,982 - INFO - Starting System Health Monitor
+2025-09-12 18:08:37,983 - INFO - SystemHealthMonitor initialized
+2025-09-12 18:08:37,983 - INFO - Starting comprehensive health check
+2025-09-12 18:08:39,987 - INFO - Collected 21 cpu metrics
+2025-09-12 18:08:39,988 - INFO - Collected 9 memory metrics
+2025-09-12 18:08:39,989 - INFO - Collected 16 disk metrics
+2025-09-12 18:08:39,991 - INFO - Collected 17 network metrics
+2025-09-12 18:08:39,991 - INFO - Collected 4 process metrics
+2025-09-12 18:08:39,992 - INFO - Health check completed in 2.01 seconds
+2025-09-12 18:08:39,992 - INFO - Collected 75 total metrics
+2025-09-12 18:08:39,995 - INFO - Metrics saved to /app/logs/health_metrics_20250912_180839.json
+2025-09-12 18:09:40,455 - INFO - Starting System Health Monitor
+2025-09-12 18:09:40,455 - INFO - SystemHealthMonitor initialized
+2025-09-12 18:09:40,456 - INFO - Starting comprehensive health check
+2025-09-12 18:09:42,459 - INFO - Collected 21 cpu metrics
+2025-09-12 18:09:42,461 - INFO - Collected 9 memory metrics
+2025-09-12 18:09:42,462 - INFO - Collected 16 disk metrics
+2025-09-12 18:09:42,464 - INFO - Collected 17 network metrics
+2025-09-12 18:09:42,465 - INFO - Collected 4 process metrics
+2025-09-12 18:09:42,465 - INFO - Health check completed in 2.01 seconds
+2025-09-12 18:09:42,466 - INFO - Collected 75 total metrics
+2025-09-12 18:09:42,469 - INFO - Metrics saved to /app/logs/health_metrics_20250912_180942.json
+2025-09-12 18:10:42,919 - INFO - Starting System Health Monitor
+2025-09-12 18:10:42,920 - INFO - SystemHealthMonitor initialized
+2025-09-12 18:10:42,920 - INFO - Starting comprehensive health check
+2025-09-12 18:10:44,921 - INFO - Collected 21 cpu metrics
+2025-09-12 18:10:44,923 - INFO - Collected 9 memory metrics
+2025-09-12 18:10:44,926 - INFO - Collected 16 disk metrics
+2025-09-12 18:10:44,928 - INFO - Collected 17 network metrics
+2025-09-12 18:10:44,929 - INFO - Collected 4 process metrics
+2025-09-12 18:10:44,930 - INFO - Health check completed in 2.01 seconds
+2025-09-12 18:10:44,930 - INFO - Collected 75 total metrics
+2025-09-12 18:10:44,935 - INFO - Metrics saved to /app/logs/health_metrics_20250912_181044.json
+2025-09-12 18:11:45,410 - INFO - Starting System Health Monitor
+2025-09-12 18:11:45,411 - INFO - SystemHealthMonitor initialized
+2025-09-12 18:11:45,411 - INFO - Starting comprehensive health check
+2025-09-12 18:11:47,415 - INFO - Collected 21 cpu metrics
+2025-09-12 18:11:47,415 - INFO - Collected 9 memory metrics
+2025-09-12 18:11:47,417 - INFO - Collected 16 disk metrics
+2025-09-12 18:11:47,418 - INFO - Collected 17 network metrics
+2025-09-12 18:11:47,419 - INFO - Collected 4 process metrics
+2025-09-12 18:11:47,420 - INFO - Health check completed in 2.01 seconds
+2025-09-12 18:11:47,420 - INFO - Collected 75 total metrics
+2025-09-12 18:11:47,425 - INFO - Metrics saved to /app/logs/health_metrics_20250912_181147.json
+2025-09-12 18:12:47,874 - INFO - Starting System Health Monitor
+2025-09-12 18:12:47,875 - INFO - SystemHealthMonitor initialized
+2025-09-12 18:12:47,875 - INFO - Starting comprehensive health check
+2025-09-12 18:12:49,880 - INFO - Collected 21 cpu metrics
+2025-09-12 18:12:49,881 - INFO - Collected 9 memory metrics
+2025-09-12 18:12:49,883 - INFO - Collected 16 disk metrics
+2025-09-12 18:12:49,884 - INFO - Collected 17 network metrics
+2025-09-12 18:12:49,885 - INFO - Collected 4 process metrics
+2025-09-12 18:12:49,886 - INFO - Health check completed in 2.01 seconds
+2025-09-12 18:12:49,886 - INFO - Collected 75 total metrics
+2025-09-12 18:12:49,890 - INFO - Metrics saved to /app/logs/health_metrics_20250912_181249.json
+2025-09-12 18:13:50,300 - INFO - Starting System Health Monitor
+2025-09-12 18:13:50,300 - INFO - SystemHealthMonitor initialized
+2025-09-12 18:13:50,301 - INFO - Starting comprehensive health check
+2025-09-12 18:13:52,305 - INFO - Collected 21 cpu metrics
+2025-09-12 18:13:52,306 - INFO - Collected 9 memory metrics
+2025-09-12 18:13:52,308 - INFO - Collected 16 disk metrics
+2025-09-12 18:13:52,310 - INFO - Collected 17 network metrics
+2025-09-12 18:13:52,310 - INFO - Collected 4 process metrics
+2025-09-12 18:13:52,311 - INFO - Health check completed in 2.01 seconds
+2025-09-12 18:13:52,311 - INFO - Collected 75 total metrics
+2025-09-12 18:13:52,314 - INFO - Metrics saved to /app/logs/health_metrics_20250912_181352.json
+2025-09-12 18:14:52,773 - INFO - Starting System Health Monitor
+2025-09-12 18:14:52,773 - INFO - SystemHealthMonitor initialized
+2025-09-12 18:14:52,774 - INFO - Starting comprehensive health check
+2025-09-12 18:14:54,778 - INFO - Collected 21 cpu metrics
+2025-09-12 18:14:54,779 - INFO - Collected 9 memory metrics
+2025-09-12 18:14:54,780 - INFO - Collected 16 disk metrics
+2025-09-12 18:14:54,782 - INFO - Collected 17 network metrics
+2025-09-12 18:14:54,783 - INFO - Collected 4 process metrics
+2025-09-12 18:14:54,784 - INFO - Health check completed in 2.01 seconds
+2025-09-12 18:14:54,784 - INFO - Collected 75 total metrics
+2025-09-12 18:14:54,788 - INFO - Metrics saved to /app/logs/health_metrics_20250912_181454.json
+2025-09-12 18:15:55,235 - INFO - Starting System Health Monitor
+2025-09-12 18:15:55,236 - INFO - SystemHealthMonitor initialized
+2025-09-12 18:15:55,236 - INFO - Starting comprehensive health check
+2025-09-12 18:15:57,240 - INFO - Collected 21 cpu metrics
+2025-09-12 18:15:57,241 - INFO - Collected 9 memory metrics
+2025-09-12 18:15:57,242 - INFO - Collected 16 disk metrics
+2025-09-12 18:15:57,243 - INFO - Collected 17 network metrics
+2025-09-12 18:15:57,244 - INFO - Collected 4 process metrics
+2025-09-12 18:15:57,244 - INFO - Health check completed in 2.01 seconds
+2025-09-12 18:15:57,244 - INFO - Collected 75 total metrics
+2025-09-12 18:15:57,246 - INFO - Metrics saved to /app/logs/health_metrics_20250912_181557.json
+2025-09-12 18:16:57,691 - INFO - Starting System Health Monitor
+2025-09-12 18:16:57,692 - INFO - SystemHealthMonitor initialized
+2025-09-12 18:16:57,692 - INFO - Starting comprehensive health check
+2025-09-12 18:16:59,695 - INFO - Collected 21 cpu metrics
+2025-09-12 18:16:59,696 - INFO - Collected 9 memory metrics
+2025-09-12 18:16:59,697 - INFO - Collected 16 disk metrics
+2025-09-12 18:16:59,699 - INFO - Collected 17 network metrics
+2025-09-12 18:16:59,699 - INFO - Collected 4 process metrics
+2025-09-12 18:16:59,699 - INFO - Health check completed in 2.01 seconds
+2025-09-12 18:16:59,699 - INFO - Collected 75 total metrics
+2025-09-12 18:16:59,702 - INFO - Metrics saved to /app/logs/health_metrics_20250912_181659.json
+2025-09-12 18:18:00,180 - INFO - Starting System Health Monitor
+2025-09-12 18:18:00,180 - INFO - SystemHealthMonitor initialized
+2025-09-12 18:18:00,181 - INFO - Starting comprehensive health check
+2025-09-12 18:18:02,184 - INFO - Collected 21 cpu metrics
+2025-09-12 18:18:02,186 - INFO - Collected 9 memory metrics
+2025-09-12 18:18:02,187 - INFO - Collected 16 disk metrics
+2025-09-12 18:18:02,189 - INFO - Collected 17 network metrics
+2025-09-12 18:18:02,190 - INFO - Collected 4 process metrics
+2025-09-12 18:18:02,190 - INFO - Health check completed in 2.01 seconds
+2025-09-12 18:18:02,191 - INFO - Collected 75 total metrics
+2025-09-12 18:18:02,194 - INFO - Metrics saved to /app/logs/health_metrics_20250912_181802.json
+2025-09-12 18:19:02,694 - INFO - Starting System Health Monitor
+2025-09-12 18:19:02,694 - INFO - SystemHealthMonitor initialized
+2025-09-12 18:19:02,694 - INFO - Starting comprehensive health check
+2025-09-12 18:19:04,698 - INFO - Collected 21 cpu metrics
+2025-09-12 18:19:04,699 - INFO - Collected 9 memory metrics
+2025-09-12 18:19:04,700 - INFO - Collected 16 disk metrics
+2025-09-12 18:19:04,702 - INFO - Collected 17 network metrics
+2025-09-12 18:19:04,703 - INFO - Collected 4 process metrics
+2025-09-12 18:19:04,703 - INFO - Health check completed in 2.01 seconds
+2025-09-12 18:19:04,703 - INFO - Collected 75 total metrics
+2025-09-12 18:19:04,706 - INFO - Metrics saved to /app/logs/health_metrics_20250912_181904.json
+2025-09-12 18:20:05,138 - INFO - Starting System Health Monitor
+2025-09-12 18:20:05,139 - INFO - SystemHealthMonitor initialized
+2025-09-12 18:20:05,139 - INFO - Starting comprehensive health check
+2025-09-12 18:20:07,144 - INFO - Collected 21 cpu metrics
+2025-09-12 18:20:07,145 - INFO - Collected 9 memory metrics
+2025-09-12 18:20:07,146 - INFO - Collected 16 disk metrics
+2025-09-12 18:20:07,148 - INFO - Collected 17 network metrics
+2025-09-12 18:20:07,149 - INFO - Collected 4 process metrics
+2025-09-12 18:20:07,149 - INFO - Health check completed in 2.01 seconds
+2025-09-12 18:20:07,150 - INFO - Collected 75 total metrics
+2025-09-12 18:20:07,152 - INFO - Metrics saved to /app/logs/health_metrics_20250912_182007.json
+2025-09-12 18:21:07,600 - INFO - Starting System Health Monitor
+2025-09-12 18:21:07,601 - INFO - SystemHealthMonitor initialized
+2025-09-12 18:21:07,601 - INFO - Starting comprehensive health check
+2025-09-12 18:21:09,605 - INFO - Collected 21 cpu metrics
+2025-09-12 18:21:09,605 - INFO - Collected 9 memory metrics
+2025-09-12 18:21:09,607 - INFO - Collected 16 disk metrics
+2025-09-12 18:21:09,608 - INFO - Collected 17 network metrics
+2025-09-12 18:21:09,609 - INFO - Collected 4 process metrics
+2025-09-12 18:21:09,610 - INFO - Health check completed in 2.01 seconds
+2025-09-12 18:21:09,610 - INFO - Collected 75 total metrics
+2025-09-12 18:21:09,613 - INFO - Metrics saved to /app/logs/health_metrics_20250912_182109.json
+2025-09-12 18:22:10,121 - INFO - Starting System Health Monitor
+2025-09-12 18:22:10,121 - INFO - SystemHealthMonitor initialized
+2025-09-12 18:22:10,122 - INFO - Starting comprehensive health check
+2025-09-12 18:22:12,125 - INFO - Collected 21 cpu metrics
+2025-09-12 18:22:12,126 - INFO - Collected 9 memory metrics
+2025-09-12 18:22:12,128 - INFO - Collected 16 disk metrics
+2025-09-12 18:22:12,130 - INFO - Collected 17 network metrics
+2025-09-12 18:22:12,130 - INFO - Collected 4 process metrics
+2025-09-12 18:22:12,131 - INFO - Health check completed in 2.01 seconds
+2025-09-12 18:22:12,131 - INFO - Collected 75 total metrics
+2025-09-12 18:22:12,134 - INFO - Metrics saved to /app/logs/health_metrics_20250912_182212.json
+2025-09-12 18:23:12,603 - INFO - Starting System Health Monitor
+2025-09-12 18:23:12,604 - INFO - SystemHealthMonitor initialized
+2025-09-12 18:23:12,604 - INFO - Starting comprehensive health check
+2025-09-12 18:23:14,607 - INFO - Collected 21 cpu metrics
+2025-09-12 18:23:14,609 - INFO - Collected 9 memory metrics
+2025-09-12 18:23:14,611 - INFO - Collected 16 disk metrics
+2025-09-12 18:23:14,613 - INFO - Collected 17 network metrics
+2025-09-12 18:23:14,614 - INFO - Collected 4 process metrics
+2025-09-12 18:23:14,615 - INFO - Health check completed in 2.01 seconds
+2025-09-12 18:23:14,615 - INFO - Collected 75 total metrics
+2025-09-12 18:23:14,618 - INFO - Metrics saved to /app/logs/health_metrics_20250912_182314.json
+2025-09-12 18:24:15,276 - INFO - Starting System Health Monitor
+2025-09-12 18:24:15,277 - INFO - SystemHealthMonitor initialized
+2025-09-12 18:24:15,277 - INFO - Starting comprehensive health check
+2025-09-12 18:24:17,280 - INFO - Collected 21 cpu metrics
+2025-09-12 18:24:17,282 - INFO - Collected 9 memory metrics
+2025-09-12 18:24:17,283 - INFO - Collected 16 disk metrics
+2025-09-12 18:24:17,285 - INFO - Collected 17 network metrics
+2025-09-12 18:24:17,285 - INFO - Collected 4 process metrics
+2025-09-12 18:24:17,286 - INFO - Health check completed in 2.01 seconds
+2025-09-12 18:24:17,286 - INFO - Collected 75 total metrics
+2025-09-12 18:24:17,289 - INFO - Metrics saved to /app/logs/health_metrics_20250912_182417.json
+2025-09-12 18:25:17,743 - INFO - Starting System Health Monitor
+2025-09-12 18:25:17,743 - INFO - SystemHealthMonitor initialized
+2025-09-12 18:25:17,744 - INFO - Starting comprehensive health check
+2025-09-12 18:25:19,748 - INFO - Collected 21 cpu metrics
+2025-09-12 18:25:19,749 - INFO - Collected 9 memory metrics
+2025-09-12 18:25:19,751 - INFO - Collected 16 disk metrics
+2025-09-12 18:25:19,753 - INFO - Collected 17 network metrics
+2025-09-12 18:25:19,754 - INFO - Collected 4 process metrics
+2025-09-12 18:25:19,755 - INFO - Health check completed in 2.01 seconds
+2025-09-12 18:25:19,755 - INFO - Collected 75 total metrics
+2025-09-12 18:25:19,759 - INFO - Metrics saved to /app/logs/health_metrics_20250912_182519.json
+2025-09-12 18:26:20,244 - INFO - Starting System Health Monitor
+2025-09-12 18:26:20,244 - INFO - SystemHealthMonitor initialized
+2025-09-12 18:26:20,245 - INFO - Starting comprehensive health check
+2025-09-12 18:26:22,248 - INFO - Collected 21 cpu metrics
+2025-09-12 18:26:22,250 - INFO - Collected 9 memory metrics
+2025-09-12 18:26:22,251 - INFO - Collected 16 disk metrics
+2025-09-12 18:26:22,253 - INFO - Collected 17 network metrics
+2025-09-12 18:26:22,254 - INFO - Collected 4 process metrics
+2025-09-12 18:26:22,254 - INFO - Health check completed in 2.01 seconds
+2025-09-12 18:26:22,255 - INFO - Collected 75 total metrics
+2025-09-12 18:26:22,258 - INFO - Metrics saved to /app/logs/health_metrics_20250912_182622.json
+2025-09-12 18:27:22,731 - INFO - Starting System Health Monitor
+2025-09-12 18:27:22,731 - INFO - SystemHealthMonitor initialized
+2025-09-12 18:27:22,731 - INFO - Starting comprehensive health check
+2025-09-12 18:27:24,736 - INFO - Collected 21 cpu metrics
+2025-09-12 18:27:24,737 - INFO - Collected 9 memory metrics
+2025-09-12 18:27:24,739 - INFO - Collected 16 disk metrics
+2025-09-12 18:27:24,740 - INFO - Collected 17 network metrics
+2025-09-12 18:27:24,741 - INFO - Collected 4 process metrics
+2025-09-12 18:27:24,742 - INFO - Health check completed in 2.01 seconds
+2025-09-12 18:27:24,742 - INFO - Collected 75 total metrics
+2025-09-12 18:27:24,745 - INFO - Metrics saved to /app/logs/health_metrics_20250912_182724.json
+2025-09-12 18:28:25,197 - INFO - Starting System Health Monitor
+2025-09-12 18:28:25,197 - INFO - SystemHealthMonitor initialized
+2025-09-12 18:28:25,198 - INFO - Starting comprehensive health check
+2025-09-12 18:28:27,201 - INFO - Collected 21 cpu metrics
+2025-09-12 18:28:27,203 - INFO - Collected 9 memory metrics
+2025-09-12 18:28:27,204 - INFO - Collected 16 disk metrics
+2025-09-12 18:28:27,206 - INFO - Collected 17 network metrics
+2025-09-12 18:28:27,207 - INFO - Collected 4 process metrics
+2025-09-12 18:28:27,207 - INFO - Health check completed in 2.01 seconds
+2025-09-12 18:28:27,208 - INFO - Collected 75 total metrics
+2025-09-12 18:28:27,213 - INFO - Metrics saved to /app/logs/health_metrics_20250912_182827.json
+2025-09-12 18:29:27,650 - INFO - Starting System Health Monitor
+2025-09-12 18:29:27,651 - INFO - SystemHealthMonitor initialized
+2025-09-12 18:29:27,651 - INFO - Starting comprehensive health check
+2025-09-12 18:29:29,654 - INFO - Collected 21 cpu metrics
+2025-09-12 18:29:29,656 - INFO - Collected 9 memory metrics
+2025-09-12 18:29:29,657 - INFO - Collected 16 disk metrics
+2025-09-12 18:29:29,659 - INFO - Collected 17 network metrics
+2025-09-12 18:29:29,660 - INFO - Collected 4 process metrics
+2025-09-12 18:29:29,660 - INFO - Health check completed in 2.01 seconds
+2025-09-12 18:29:29,660 - INFO - Collected 75 total metrics
+2025-09-12 18:29:29,665 - INFO - Metrics saved to /app/logs/health_metrics_20250912_182929.json
+2025-09-12 18:30:30,125 - INFO - Starting System Health Monitor
+2025-09-12 18:30:30,126 - INFO - SystemHealthMonitor initialized
+2025-09-12 18:30:30,126 - INFO - Starting comprehensive health check
+2025-09-12 18:30:32,131 - INFO - Collected 21 cpu metrics
+2025-09-12 18:30:32,133 - INFO - Collected 9 memory metrics
+2025-09-12 18:30:32,134 - INFO - Collected 16 disk metrics
+2025-09-12 18:30:32,136 - INFO - Collected 17 network metrics
+2025-09-12 18:30:32,137 - INFO - Collected 4 process metrics
+2025-09-12 18:30:32,138 - INFO - Health check completed in 2.01 seconds
+2025-09-12 18:30:32,139 - INFO - Collected 75 total metrics
+2025-09-12 18:30:32,143 - INFO - Metrics saved to /app/logs/health_metrics_20250912_183032.json
+2025-09-12 18:31:32,561 - INFO - Starting System Health Monitor
+2025-09-12 18:31:32,561 - INFO - SystemHealthMonitor initialized
+2025-09-12 18:31:32,561 - INFO - Starting comprehensive health check
+2025-09-12 18:31:34,566 - INFO - Collected 21 cpu metrics
+2025-09-12 18:31:34,567 - INFO - Collected 9 memory metrics
+2025-09-12 18:31:34,569 - INFO - Collected 16 disk metrics
+2025-09-12 18:31:34,571 - INFO - Collected 17 network metrics
+2025-09-12 18:31:34,573 - INFO - Collected 4 process metrics
+2025-09-12 18:31:34,573 - INFO - Health check completed in 2.01 seconds
+2025-09-12 18:31:34,574 - INFO - Collected 75 total metrics
+2025-09-12 18:31:34,576 - INFO - Metrics saved to /app/logs/health_metrics_20250912_183134.json
+2025-09-12 18:32:35,018 - INFO - Starting System Health Monitor
+2025-09-12 18:32:35,019 - INFO - SystemHealthMonitor initialized
+2025-09-12 18:32:35,019 - INFO - Starting comprehensive health check
+2025-09-12 18:32:37,024 - INFO - Collected 21 cpu metrics
+2025-09-12 18:32:37,026 - INFO - Collected 9 memory metrics
+2025-09-12 18:32:37,029 - INFO - Collected 16 disk metrics
+2025-09-12 18:32:37,031 - INFO - Collected 17 network metrics
+2025-09-12 18:32:37,032 - INFO - Collected 4 process metrics
+2025-09-12 18:32:37,032 - INFO - Health check completed in 2.01 seconds
+2025-09-12 18:32:37,033 - INFO - Collected 75 total metrics
+2025-09-12 18:32:37,036 - INFO - Metrics saved to /app/logs/health_metrics_20250912_183237.json
+2025-09-12 18:33:37,504 - INFO - Starting System Health Monitor
+2025-09-12 18:33:37,505 - INFO - SystemHealthMonitor initialized
+2025-09-12 18:33:37,505 - INFO - Starting comprehensive health check
+2025-09-12 18:33:39,510 - INFO - Collected 21 cpu metrics
+2025-09-12 18:33:39,511 - INFO - Collected 9 memory metrics
+2025-09-12 18:33:39,514 - INFO - Collected 16 disk metrics
+2025-09-12 18:33:39,516 - INFO - Collected 17 network metrics
+2025-09-12 18:33:39,517 - INFO - Collected 4 process metrics
+2025-09-12 18:33:39,517 - INFO - Health check completed in 2.01 seconds
+2025-09-12 18:33:39,518 - INFO - Collected 75 total metrics
+2025-09-12 18:33:39,521 - INFO - Metrics saved to /app/logs/health_metrics_20250912_183339.json
+2025-09-12 18:34:39,973 - INFO - Starting System Health Monitor
+2025-09-12 18:34:39,973 - INFO - SystemHealthMonitor initialized
+2025-09-12 18:34:39,974 - INFO - Starting comprehensive health check
+2025-09-12 18:34:41,978 - INFO - Collected 21 cpu metrics
+2025-09-12 18:34:41,979 - INFO - Collected 9 memory metrics
+2025-09-12 18:34:41,980 - INFO - Collected 16 disk metrics
+2025-09-12 18:34:41,982 - INFO - Collected 17 network metrics
+2025-09-12 18:34:41,982 - INFO - Collected 4 process metrics
+2025-09-12 18:34:41,983 - INFO - Health check completed in 2.01 seconds
+2025-09-12 18:34:41,984 - INFO - Collected 75 total metrics
+2025-09-12 18:34:41,987 - INFO - Metrics saved to /app/logs/health_metrics_20250912_183441.json
+2025-09-12 18:35:42,446 - INFO - Starting System Health Monitor
+2025-09-12 18:35:42,446 - INFO - SystemHealthMonitor initialized
+2025-09-12 18:35:42,447 - INFO - Starting comprehensive health check
+2025-09-12 18:35:44,449 - INFO - Collected 21 cpu metrics
+2025-09-12 18:35:44,450 - INFO - Collected 9 memory metrics
+2025-09-12 18:35:44,451 - INFO - Collected 16 disk metrics
+2025-09-12 18:35:44,454 - INFO - Collected 17 network metrics
+2025-09-12 18:35:44,454 - INFO - Collected 4 process metrics
+2025-09-12 18:35:44,455 - INFO - Health check completed in 2.01 seconds
+2025-09-12 18:35:44,455 - INFO - Collected 75 total metrics
+2025-09-12 18:35:44,458 - INFO - Metrics saved to /app/logs/health_metrics_20250912_183544.json
+2025-09-12 18:36:44,966 - INFO - Starting System Health Monitor
+2025-09-12 18:36:44,966 - INFO - SystemHealthMonitor initialized
+2025-09-12 18:36:44,966 - INFO - Starting comprehensive health check
+2025-09-12 18:36:46,972 - INFO - Collected 21 cpu metrics
+2025-09-12 18:36:46,973 - INFO - Collected 9 memory metrics
+2025-09-12 18:36:46,976 - INFO - Collected 16 disk metrics
+2025-09-12 18:36:46,978 - INFO - Collected 17 network metrics
+2025-09-12 18:36:46,979 - INFO - Collected 4 process metrics
+2025-09-12 18:36:46,980 - INFO - Health check completed in 2.01 seconds
+2025-09-12 18:36:46,980 - INFO - Collected 75 total metrics
+2025-09-12 18:36:46,985 - INFO - Metrics saved to /app/logs/health_metrics_20250912_183646.json
+2025-09-12 18:37:47,488 - INFO - Starting System Health Monitor
+2025-09-12 18:37:47,489 - INFO - SystemHealthMonitor initialized
+2025-09-12 18:37:47,489 - INFO - Starting comprehensive health check
+2025-09-12 18:37:49,494 - INFO - Collected 21 cpu metrics
+2025-09-12 18:37:49,496 - INFO - Collected 9 memory metrics
+2025-09-12 18:37:49,498 - INFO - Collected 16 disk metrics
+2025-09-12 18:37:49,499 - INFO - Collected 17 network metrics
+2025-09-12 18:37:49,500 - INFO - Collected 4 process metrics
+2025-09-12 18:37:49,500 - INFO - Health check completed in 2.01 seconds
+2025-09-12 18:37:49,501 - INFO - Collected 75 total metrics
+2025-09-12 18:37:49,504 - INFO - Metrics saved to /app/logs/health_metrics_20250912_183749.json
+2025-09-12 18:38:49,950 - INFO - Starting System Health Monitor
+2025-09-12 18:38:49,950 - INFO - SystemHealthMonitor initialized
+2025-09-12 18:38:49,950 - INFO - Starting comprehensive health check
+2025-09-12 18:38:51,955 - INFO - Collected 21 cpu metrics
+2025-09-12 18:38:51,957 - INFO - Collected 9 memory metrics
+2025-09-12 18:38:51,959 - INFO - Collected 16 disk metrics
+2025-09-12 18:38:51,961 - INFO - Collected 17 network metrics
+2025-09-12 18:38:51,961 - INFO - Collected 4 process metrics
+2025-09-12 18:38:51,962 - INFO - Health check completed in 2.01 seconds
+2025-09-12 18:38:51,962 - INFO - Collected 75 total metrics
+2025-09-12 18:38:51,967 - INFO - Metrics saved to /app/logs/health_metrics_20250912_183851.json
+2025-09-12 18:39:52,386 - INFO - Starting System Health Monitor
+2025-09-12 18:39:52,387 - INFO - SystemHealthMonitor initialized
+2025-09-12 18:39:52,387 - INFO - Starting comprehensive health check
+2025-09-12 18:39:54,392 - INFO - Collected 21 cpu metrics
+2025-09-12 18:39:54,394 - INFO - Collected 9 memory metrics
+2025-09-12 18:39:54,396 - INFO - Collected 16 disk metrics
+2025-09-12 18:39:54,397 - INFO - Collected 17 network metrics
+2025-09-12 18:39:54,398 - INFO - Collected 4 process metrics
+2025-09-12 18:39:54,399 - INFO - Health check completed in 2.01 seconds
+2025-09-12 18:39:54,399 - INFO - Collected 75 total metrics
+2025-09-12 18:39:54,404 - INFO - Metrics saved to /app/logs/health_metrics_20250912_183954.json
+2025-09-12 18:40:54,866 - INFO - Starting System Health Monitor
+2025-09-12 18:40:54,866 - INFO - SystemHealthMonitor initialized
+2025-09-12 18:40:54,867 - INFO - Starting comprehensive health check
+2025-09-12 18:40:56,871 - INFO - Collected 21 cpu metrics
+2025-09-12 18:40:56,873 - INFO - Collected 9 memory metrics
+2025-09-12 18:40:56,875 - INFO - Collected 16 disk metrics
+2025-09-12 18:40:56,877 - INFO - Collected 17 network metrics
+2025-09-12 18:40:56,878 - INFO - Collected 4 process metrics
+2025-09-12 18:40:56,879 - INFO - Health check completed in 2.01 seconds
+2025-09-12 18:40:56,879 - INFO - Collected 75 total metrics
+2025-09-12 18:40:56,881 - INFO - Metrics saved to /app/logs/health_metrics_20250912_184056.json
+2025-09-12 18:41:57,332 - INFO - Starting System Health Monitor
+2025-09-12 18:41:57,333 - INFO - SystemHealthMonitor initialized
+2025-09-12 18:41:57,333 - INFO - Starting comprehensive health check
+2025-09-12 18:41:59,338 - INFO - Collected 21 cpu metrics
+2025-09-12 18:41:59,340 - INFO - Collected 9 memory metrics
+2025-09-12 18:41:59,342 - INFO - Collected 16 disk metrics
+2025-09-12 18:41:59,344 - INFO - Collected 17 network metrics
+2025-09-12 18:41:59,345 - INFO - Collected 4 process metrics
+2025-09-12 18:41:59,346 - INFO - Health check completed in 2.01 seconds
+2025-09-12 18:41:59,346 - INFO - Collected 75 total metrics
+2025-09-12 18:41:59,350 - INFO - Metrics saved to /app/logs/health_metrics_20250912_184159.json
+2025-09-12 18:42:59,773 - INFO - Starting System Health Monitor
+2025-09-12 18:42:59,773 - INFO - SystemHealthMonitor initialized
+2025-09-12 18:42:59,773 - INFO - Starting comprehensive health check
+2025-09-12 18:43:01,778 - INFO - Collected 21 cpu metrics
+2025-09-12 18:43:01,780 - INFO - Collected 9 memory metrics
+2025-09-12 18:43:01,783 - INFO - Collected 16 disk metrics
+2025-09-12 18:43:01,785 - INFO - Collected 17 network metrics
+2025-09-12 18:43:01,786 - INFO - Collected 4 process metrics
+2025-09-12 18:43:01,786 - INFO - Health check completed in 2.01 seconds
+2025-09-12 18:43:01,787 - INFO - Collected 75 total metrics
+2025-09-12 18:43:01,792 - INFO - Metrics saved to /app/logs/health_metrics_20250912_184301.json
+2025-09-12 18:44:02,219 - INFO - Starting System Health Monitor
+2025-09-12 18:44:02,219 - INFO - SystemHealthMonitor initialized
+2025-09-12 18:44:02,219 - INFO - Starting comprehensive health check
+2025-09-12 18:44:04,223 - INFO - Collected 21 cpu metrics
+2025-09-12 18:44:04,224 - INFO - Collected 9 memory metrics
+2025-09-12 18:44:04,226 - INFO - Collected 16 disk metrics
+2025-09-12 18:44:04,227 - INFO - Collected 17 network metrics
+2025-09-12 18:44:04,228 - INFO - Collected 4 process metrics
+2025-09-12 18:44:04,229 - INFO - Health check completed in 2.01 seconds
+2025-09-12 18:44:04,229 - INFO - Collected 75 total metrics
+2025-09-12 18:44:04,235 - INFO - Metrics saved to /app/logs/health_metrics_20250912_184404.json
+2025-09-12 18:45:04,643 - INFO - Starting System Health Monitor
+2025-09-12 18:45:04,643 - INFO - SystemHealthMonitor initialized
+2025-09-12 18:45:04,643 - INFO - Starting comprehensive health check
+2025-09-12 18:45:06,648 - INFO - Collected 21 cpu metrics
+2025-09-12 18:45:06,649 - INFO - Collected 9 memory metrics
+2025-09-12 18:45:06,652 - INFO - Collected 16 disk metrics
+2025-09-12 18:45:06,654 - INFO - Collected 17 network metrics
+2025-09-12 18:45:06,654 - INFO - Collected 4 process metrics
+2025-09-12 18:45:06,655 - INFO - Health check completed in 2.01 seconds
+2025-09-12 18:45:06,655 - INFO - Collected 75 total metrics
+2025-09-12 18:45:06,659 - INFO - Metrics saved to /app/logs/health_metrics_20250912_184506.json
+2025-09-12 18:46:07,095 - INFO - Starting System Health Monitor
+2025-09-12 18:46:07,095 - INFO - SystemHealthMonitor initialized
+2025-09-12 18:46:07,096 - INFO - Starting comprehensive health check
+2025-09-12 18:46:09,100 - INFO - Collected 21 cpu metrics
+2025-09-12 18:46:09,102 - INFO - Collected 9 memory metrics
+2025-09-12 18:46:09,104 - INFO - Collected 16 disk metrics
+2025-09-12 18:46:09,106 - INFO - Collected 17 network metrics
+2025-09-12 18:46:09,107 - INFO - Collected 4 process metrics
+2025-09-12 18:46:09,108 - INFO - Health check completed in 2.01 seconds
+2025-09-12 18:46:09,108 - INFO - Collected 75 total metrics
+2025-09-12 18:46:09,112 - INFO - Metrics saved to /app/logs/health_metrics_20250912_184609.json
+2025-09-12 18:47:09,534 - INFO - Starting System Health Monitor
+2025-09-12 18:47:09,534 - INFO - SystemHealthMonitor initialized
+2025-09-12 18:47:09,535 - INFO - Starting comprehensive health check
+2025-09-12 18:47:11,540 - INFO - Collected 21 cpu metrics
+2025-09-12 18:47:11,542 - INFO - Collected 9 memory metrics
+2025-09-12 18:47:11,543 - INFO - Collected 16 disk metrics
+2025-09-12 18:47:11,545 - INFO - Collected 17 network metrics
+2025-09-12 18:47:11,545 - INFO - Collected 4 process metrics
+2025-09-12 18:47:11,546 - INFO - Health check completed in 2.01 seconds
+2025-09-12 18:47:11,546 - INFO - Collected 75 total metrics
+2025-09-12 18:47:11,549 - INFO - Metrics saved to /app/logs/health_metrics_20250912_184711.json
+2025-09-12 18:48:11,972 - INFO - Starting System Health Monitor
+2025-09-12 18:48:11,973 - INFO - SystemHealthMonitor initialized
+2025-09-12 18:48:11,973 - INFO - Starting comprehensive health check
+2025-09-12 18:48:13,976 - INFO - Collected 21 cpu metrics
+2025-09-12 18:48:13,977 - INFO - Collected 9 memory metrics
+2025-09-12 18:48:13,978 - INFO - Collected 16 disk metrics
+2025-09-12 18:48:13,980 - INFO - Collected 17 network metrics
+2025-09-12 18:48:13,980 - INFO - Collected 4 process metrics
+2025-09-12 18:48:13,981 - INFO - Health check completed in 2.01 seconds
+2025-09-12 18:48:13,981 - INFO - Collected 75 total metrics
+2025-09-12 18:48:13,984 - INFO - Metrics saved to /app/logs/health_metrics_20250912_184813.json
+2025-09-12 18:49:14,391 - INFO - Starting System Health Monitor
+2025-09-12 18:49:14,392 - INFO - SystemHealthMonitor initialized
+2025-09-12 18:49:14,393 - INFO - Starting comprehensive health check
+2025-09-12 18:49:16,397 - INFO - Collected 21 cpu metrics
+2025-09-12 18:49:16,399 - INFO - Collected 9 memory metrics
+2025-09-12 18:49:16,401 - INFO - Collected 16 disk metrics
+2025-09-12 18:49:16,404 - INFO - Collected 17 network metrics
+2025-09-12 18:49:16,405 - INFO - Collected 4 process metrics
+2025-09-12 18:49:16,406 - INFO - Health check completed in 2.01 seconds
+2025-09-12 18:49:16,406 - INFO - Collected 75 total metrics
+2025-09-12 18:49:16,410 - INFO - Metrics saved to /app/logs/health_metrics_20250912_184916.json
+2025-09-12 18:50:16,868 - INFO - Starting System Health Monitor
+2025-09-12 18:50:16,869 - INFO - SystemHealthMonitor initialized
+2025-09-12 18:50:16,869 - INFO - Starting comprehensive health check
+2025-09-12 18:50:18,873 - INFO - Collected 21 cpu metrics
+2025-09-12 18:50:18,875 - INFO - Collected 9 memory metrics
+2025-09-12 18:50:18,877 - INFO - Collected 16 disk metrics
+2025-09-12 18:50:18,879 - INFO - Collected 17 network metrics
+2025-09-12 18:50:18,879 - INFO - Collected 4 process metrics
+2025-09-12 18:50:18,880 - INFO - Health check completed in 2.01 seconds
+2025-09-12 18:50:18,880 - INFO - Collected 75 total metrics
+2025-09-12 18:50:18,886 - INFO - Metrics saved to /app/logs/health_metrics_20250912_185018.json
+2025-09-12 18:51:19,319 - INFO - Starting System Health Monitor
+2025-09-12 18:51:19,320 - INFO - SystemHealthMonitor initialized
+2025-09-12 18:51:19,320 - INFO - Starting comprehensive health check
+2025-09-12 18:51:21,324 - INFO - Collected 21 cpu metrics
+2025-09-12 18:51:21,325 - INFO - Collected 9 memory metrics
+2025-09-12 18:51:21,327 - INFO - Collected 16 disk metrics
+2025-09-12 18:51:21,329 - INFO - Collected 17 network metrics
+2025-09-12 18:51:21,330 - INFO - Collected 4 process metrics
+2025-09-12 18:51:21,331 - INFO - Health check completed in 2.01 seconds
+2025-09-12 18:51:21,331 - INFO - Collected 75 total metrics
+2025-09-12 18:51:21,335 - INFO - Metrics saved to /app/logs/health_metrics_20250912_185121.json
+2025-09-12 18:52:21,812 - INFO - Starting System Health Monitor
+2025-09-12 18:52:21,812 - INFO - SystemHealthMonitor initialized
+2025-09-12 18:52:21,812 - INFO - Starting comprehensive health check
+2025-09-12 18:52:23,816 - INFO - Collected 21 cpu metrics
+2025-09-12 18:52:23,817 - INFO - Collected 9 memory metrics
+2025-09-12 18:52:23,819 - INFO - Collected 16 disk metrics
+2025-09-12 18:52:23,820 - INFO - Collected 17 network metrics
+2025-09-12 18:52:23,821 - INFO - Collected 4 process metrics
+2025-09-12 18:52:23,821 - INFO - Health check completed in 2.01 seconds
+2025-09-12 18:52:23,822 - INFO - Collected 75 total metrics
+2025-09-12 18:52:23,824 - INFO - Metrics saved to /app/logs/health_metrics_20250912_185223.json
+2025-09-12 18:53:24,314 - INFO - Starting System Health Monitor
+2025-09-12 18:53:24,314 - INFO - SystemHealthMonitor initialized
+2025-09-12 18:53:24,315 - INFO - Starting comprehensive health check
+2025-09-12 18:53:26,319 - INFO - Collected 21 cpu metrics
+2025-09-12 18:53:26,322 - INFO - Collected 9 memory metrics
+2025-09-12 18:53:26,324 - INFO - Collected 16 disk metrics
+2025-09-12 18:53:26,325 - INFO - Collected 17 network metrics
+2025-09-12 18:53:26,326 - INFO - Collected 4 process metrics
+2025-09-12 18:53:26,326 - INFO - Health check completed in 2.01 seconds
+2025-09-12 18:53:26,327 - INFO - Collected 75 total metrics
+2025-09-12 18:53:26,332 - INFO - Metrics saved to /app/logs/health_metrics_20250912_185326.json
+2025-09-12 18:54:26,738 - INFO - Starting System Health Monitor
+2025-09-12 18:54:26,738 - INFO - SystemHealthMonitor initialized
+2025-09-12 18:54:26,739 - INFO - Starting comprehensive health check
+2025-09-12 18:54:28,742 - INFO - Collected 21 cpu metrics
+2025-09-12 18:54:28,743 - INFO - Collected 9 memory metrics
+2025-09-12 18:54:28,745 - INFO - Collected 16 disk metrics
+2025-09-12 18:54:28,746 - INFO - Collected 17 network metrics
+2025-09-12 18:54:28,747 - INFO - Collected 4 process metrics
+2025-09-12 18:54:28,749 - INFO - Health check completed in 2.01 seconds
+2025-09-12 18:54:28,749 - INFO - Collected 75 total metrics
+2025-09-12 18:54:28,753 - INFO - Metrics saved to /app/logs/health_metrics_20250912_185428.json
+2025-09-12 18:55:29,230 - INFO - Starting System Health Monitor
+2025-09-12 18:55:29,230 - INFO - SystemHealthMonitor initialized
+2025-09-12 18:55:29,231 - INFO - Starting comprehensive health check
+2025-09-12 18:55:31,235 - INFO - Collected 21 cpu metrics
+2025-09-12 18:55:31,236 - INFO - Collected 9 memory metrics
+2025-09-12 18:55:31,237 - INFO - Collected 16 disk metrics
+2025-09-12 18:55:31,239 - INFO - Collected 17 network metrics
+2025-09-12 18:55:31,240 - INFO - Collected 4 process metrics
+2025-09-12 18:55:31,241 - INFO - Health check completed in 2.01 seconds
+2025-09-12 18:55:31,241 - INFO - Collected 75 total metrics
+2025-09-12 18:55:31,244 - INFO - Metrics saved to /app/logs/health_metrics_20250912_185531.json
+2025-09-12 18:56:31,716 - INFO - Starting System Health Monitor
+2025-09-12 18:56:31,716 - INFO - SystemHealthMonitor initialized
+2025-09-12 18:56:31,716 - INFO - Starting comprehensive health check
+2025-09-12 18:56:33,720 - INFO - Collected 21 cpu metrics
+2025-09-12 18:56:33,721 - INFO - Collected 9 memory metrics
+2025-09-12 18:56:33,722 - INFO - Collected 16 disk metrics
+2025-09-12 18:56:33,724 - INFO - Collected 17 network metrics
+2025-09-12 18:56:33,725 - INFO - Collected 4 process metrics
+2025-09-12 18:56:33,725 - INFO - Health check completed in 2.01 seconds
+2025-09-12 18:56:33,726 - INFO - Collected 75 total metrics
+2025-09-12 18:56:33,729 - INFO - Metrics saved to /app/logs/health_metrics_20250912_185633.json
+2025-09-12 18:57:34,214 - INFO - Starting System Health Monitor
+2025-09-12 18:57:34,215 - INFO - SystemHealthMonitor initialized
+2025-09-12 18:57:34,215 - INFO - Starting comprehensive health check
+2025-09-12 18:57:36,220 - INFO - Collected 21 cpu metrics
+2025-09-12 18:57:36,221 - INFO - Collected 9 memory metrics
+2025-09-12 18:57:36,224 - INFO - Collected 16 disk metrics
+2025-09-12 18:57:36,226 - INFO - Collected 17 network metrics
+2025-09-12 18:57:36,228 - INFO - Collected 4 process metrics
+2025-09-12 18:57:36,228 - INFO - Health check completed in 2.01 seconds
+2025-09-12 18:57:36,229 - INFO - Collected 75 total metrics
+2025-09-12 18:57:36,232 - INFO - Metrics saved to /app/logs/health_metrics_20250912_185736.json
+2025-09-12 18:58:36,711 - INFO - Starting System Health Monitor
+2025-09-12 18:58:36,711 - INFO - SystemHealthMonitor initialized
+2025-09-12 18:58:36,712 - INFO - Starting comprehensive health check
+2025-09-12 18:58:38,715 - INFO - Collected 21 cpu metrics
+2025-09-12 18:58:38,716 - INFO - Collected 9 memory metrics
+2025-09-12 18:58:38,718 - INFO - Collected 16 disk metrics
+2025-09-12 18:58:38,719 - INFO - Collected 17 network metrics
+2025-09-12 18:58:38,720 - INFO - Collected 4 process metrics
+2025-09-12 18:58:38,721 - INFO - Health check completed in 2.01 seconds
+2025-09-12 18:58:38,721 - INFO - Collected 75 total metrics
+2025-09-12 18:58:38,725 - INFO - Metrics saved to /app/logs/health_metrics_20250912_185838.json
+2025-09-12 18:59:39,195 - INFO - Starting System Health Monitor
+2025-09-12 18:59:39,195 - INFO - SystemHealthMonitor initialized
+2025-09-12 18:59:39,195 - INFO - Starting comprehensive health check
+2025-09-12 18:59:41,199 - INFO - Collected 21 cpu metrics
+2025-09-12 18:59:41,200 - INFO - Collected 9 memory metrics
+2025-09-12 18:59:41,201 - INFO - Collected 16 disk metrics
+2025-09-12 18:59:41,203 - INFO - Collected 17 network metrics
+2025-09-12 18:59:41,203 - INFO - Collected 4 process metrics
+2025-09-12 18:59:41,204 - INFO - Health check completed in 2.01 seconds
+2025-09-12 18:59:41,204 - INFO - Collected 75 total metrics
+2025-09-12 18:59:41,207 - INFO - Metrics saved to /app/logs/health_metrics_20250912_185941.json
+2025-09-12 19:00:41,637 - INFO - Starting System Health Monitor
+2025-09-12 19:00:41,637 - INFO - SystemHealthMonitor initialized
+2025-09-12 19:00:41,638 - INFO - Starting comprehensive health check
+2025-09-12 19:00:43,642 - INFO - Collected 21 cpu metrics
+2025-09-12 19:00:43,643 - INFO - Collected 9 memory metrics
+2025-09-12 19:00:43,646 - INFO - Collected 16 disk metrics
+2025-09-12 19:00:43,648 - INFO - Collected 17 network metrics
+2025-09-12 19:00:43,649 - INFO - Collected 4 process metrics
+2025-09-12 19:00:43,649 - INFO - Health check completed in 2.01 seconds
+2025-09-12 19:00:43,650 - INFO - Collected 75 total metrics
+2025-09-12 19:00:43,653 - INFO - Metrics saved to /app/logs/health_metrics_20250912_190043.json
+2025-09-12 19:01:44,131 - INFO - Starting System Health Monitor
+2025-09-12 19:01:44,132 - INFO - SystemHealthMonitor initialized
+2025-09-12 19:01:44,132 - INFO - Starting comprehensive health check
+2025-09-12 19:01:46,136 - INFO - Collected 21 cpu metrics
+2025-09-12 19:01:46,138 - INFO - Collected 9 memory metrics
+2025-09-12 19:01:46,140 - INFO - Collected 16 disk metrics
+2025-09-12 19:01:46,141 - INFO - Collected 17 network metrics
+2025-09-12 19:01:46,142 - INFO - Collected 4 process metrics
+2025-09-12 19:01:46,142 - INFO - Health check completed in 2.01 seconds
+2025-09-12 19:01:46,143 - INFO - Collected 75 total metrics
+2025-09-12 19:01:46,148 - INFO - Metrics saved to /app/logs/health_metrics_20250912_190146.json
+2025-09-12 19:02:46,618 - INFO - Starting System Health Monitor
+2025-09-12 19:02:46,618 - INFO - SystemHealthMonitor initialized
+2025-09-12 19:02:46,618 - INFO - Starting comprehensive health check
+2025-09-12 19:02:48,623 - INFO - Collected 21 cpu metrics
+2025-09-12 19:02:48,625 - INFO - Collected 9 memory metrics
+2025-09-12 19:02:48,627 - INFO - Collected 16 disk metrics
+2025-09-12 19:02:48,629 - INFO - Collected 17 network metrics
+2025-09-12 19:02:48,630 - INFO - Collected 4 process metrics
+2025-09-12 19:02:48,631 - INFO - Health check completed in 2.01 seconds
+2025-09-12 19:02:48,631 - INFO - Collected 75 total metrics
+2025-09-12 19:02:48,636 - INFO - Metrics saved to /app/logs/health_metrics_20250912_190248.json
+2025-09-12 19:03:49,054 - INFO - Starting System Health Monitor
+2025-09-12 19:03:49,054 - INFO - SystemHealthMonitor initialized
+2025-09-12 19:03:49,055 - INFO - Starting comprehensive health check
+2025-09-12 19:03:51,058 - INFO - Collected 21 cpu metrics
+2025-09-12 19:03:51,059 - INFO - Collected 9 memory metrics
+2025-09-12 19:03:51,060 - INFO - Collected 16 disk metrics
+2025-09-12 19:03:51,062 - INFO - Collected 17 network metrics
+2025-09-12 19:03:51,063 - INFO - Collected 4 process metrics
+2025-09-12 19:03:51,063 - INFO - Health check completed in 2.01 seconds
+2025-09-12 19:03:51,063 - INFO - Collected 75 total metrics
+2025-09-12 19:03:51,068 - INFO - Metrics saved to /app/logs/health_metrics_20250912_190351.json
+2025-09-12 19:04:51,538 - INFO - Starting System Health Monitor
+2025-09-12 19:04:51,538 - INFO - SystemHealthMonitor initialized
+2025-09-12 19:04:51,538 - INFO - Starting comprehensive health check
+2025-09-12 19:04:53,542 - INFO - Collected 21 cpu metrics
+2025-09-12 19:04:53,544 - INFO - Collected 9 memory metrics
+2025-09-12 19:04:53,547 - INFO - Collected 16 disk metrics
+2025-09-12 19:04:53,549 - INFO - Collected 17 network metrics
+2025-09-12 19:04:53,550 - INFO - Collected 4 process metrics
+2025-09-12 19:04:53,551 - INFO - Health check completed in 2.01 seconds
+2025-09-12 19:04:53,551 - INFO - Collected 75 total metrics
+2025-09-12 19:04:53,554 - INFO - Metrics saved to /app/logs/health_metrics_20250912_190453.json
+2025-09-12 19:05:53,971 - INFO - Starting System Health Monitor
+2025-09-12 19:05:53,971 - INFO - SystemHealthMonitor initialized
+2025-09-12 19:05:53,971 - INFO - Starting comprehensive health check
+2025-09-12 19:05:55,976 - INFO - Collected 21 cpu metrics
+2025-09-12 19:05:55,977 - INFO - Collected 9 memory metrics
+2025-09-12 19:05:55,979 - INFO - Collected 16 disk metrics
+2025-09-12 19:05:55,980 - INFO - Collected 17 network metrics
+2025-09-12 19:05:55,981 - INFO - Collected 4 process metrics
+2025-09-12 19:05:55,981 - INFO - Health check completed in 2.01 seconds
+2025-09-12 19:05:55,982 - INFO - Collected 75 total metrics
+2025-09-12 19:05:55,989 - INFO - Metrics saved to /app/logs/health_metrics_20250912_190555.json
+2025-09-12 19:06:56,416 - INFO - Starting System Health Monitor
+2025-09-12 19:06:56,417 - INFO - SystemHealthMonitor initialized
+2025-09-12 19:06:56,417 - INFO - Starting comprehensive health check
+2025-09-12 19:06:58,422 - INFO - Collected 21 cpu metrics
+2025-09-12 19:06:58,423 - INFO - Collected 9 memory metrics
+2025-09-12 19:06:58,426 - INFO - Collected 16 disk metrics
+2025-09-12 19:06:58,427 - INFO - Collected 17 network metrics
+2025-09-12 19:06:58,428 - INFO - Collected 4 process metrics
+2025-09-12 19:06:58,428 - INFO - Health check completed in 2.01 seconds
+2025-09-12 19:06:58,429 - INFO - Collected 75 total metrics
+2025-09-12 19:06:58,434 - INFO - Metrics saved to /app/logs/health_metrics_20250912_190658.json
+2025-09-12 19:07:58,871 - INFO - Starting System Health Monitor
+2025-09-12 19:07:58,871 - INFO - SystemHealthMonitor initialized
+2025-09-12 19:07:58,872 - INFO - Starting comprehensive health check
+2025-09-12 19:08:00,877 - INFO - Collected 21 cpu metrics
+2025-09-12 19:08:00,878 - INFO - Collected 9 memory metrics
+2025-09-12 19:08:00,881 - INFO - Collected 16 disk metrics
+2025-09-12 19:08:00,883 - INFO - Collected 17 network metrics
+2025-09-12 19:08:00,884 - INFO - Collected 4 process metrics
+2025-09-12 19:08:00,884 - INFO - Health check completed in 2.01 seconds
+2025-09-12 19:08:00,885 - INFO - Collected 75 total metrics
+2025-09-12 19:08:00,888 - INFO - Metrics saved to /app/logs/health_metrics_20250912_190800.json
+2025-09-12 19:09:01,519 - INFO - Starting System Health Monitor
+2025-09-12 19:09:01,520 - INFO - SystemHealthMonitor initialized
+2025-09-12 19:09:01,520 - INFO - Starting comprehensive health check
+2025-09-12 19:09:03,526 - INFO - Collected 21 cpu metrics
+2025-09-12 19:09:03,529 - INFO - Collected 9 memory metrics
+2025-09-12 19:09:03,533 - INFO - Collected 16 disk metrics
+2025-09-12 19:09:03,536 - INFO - Collected 17 network metrics
+2025-09-12 19:09:03,538 - INFO - Collected 4 process metrics
+2025-09-12 19:09:03,538 - INFO - Health check completed in 2.02 seconds
+2025-09-12 19:09:03,539 - INFO - Collected 75 total metrics
+2025-09-12 19:09:03,545 - INFO - Metrics saved to /app/logs/health_metrics_20250912_190903.json
+2025-09-12 19:10:04,676 - INFO - Starting System Health Monitor
+2025-09-12 19:10:04,677 - INFO - SystemHealthMonitor initialized
+2025-09-12 19:10:04,677 - INFO - Starting comprehensive health check
+2025-09-12 19:10:06,681 - INFO - Collected 21 cpu metrics
+2025-09-12 19:10:06,683 - INFO - Collected 9 memory metrics
+2025-09-12 19:10:06,685 - INFO - Collected 16 disk metrics
+2025-09-12 19:10:06,687 - INFO - Collected 17 network metrics
+2025-09-12 19:10:06,687 - INFO - Collected 4 process metrics
+2025-09-12 19:10:06,688 - INFO - Health check completed in 2.01 seconds
+2025-09-12 19:10:06,688 - INFO - Collected 75 total metrics
+2025-09-12 19:10:06,696 - INFO - Metrics saved to /app/logs/health_metrics_20250912_191006.json
+2025-09-12 19:11:07,580 - INFO - Starting System Health Monitor
+2025-09-12 19:11:07,581 - INFO - SystemHealthMonitor initialized
+2025-09-12 19:11:07,582 - INFO - Starting comprehensive health check
+2025-09-12 19:11:09,587 - INFO - Collected 21 cpu metrics
+2025-09-12 19:11:09,589 - INFO - Collected 9 memory metrics
+2025-09-12 19:11:09,592 - INFO - Collected 16 disk metrics
+2025-09-12 19:11:09,596 - INFO - Collected 17 network metrics
+2025-09-12 19:11:09,597 - INFO - Collected 4 process metrics
+2025-09-12 19:11:09,598 - INFO - Health check completed in 2.02 seconds
+2025-09-12 19:11:09,599 - INFO - Collected 75 total metrics
+2025-09-12 19:11:09,607 - INFO - Metrics saved to /app/logs/health_metrics_20250912_191109.json
+2025-09-12 19:12:10,321 - INFO - Starting System Health Monitor
+2025-09-12 19:12:10,322 - INFO - SystemHealthMonitor initialized
+2025-09-12 19:12:10,323 - INFO - Starting comprehensive health check
+2025-09-12 19:12:12,328 - INFO - Collected 21 cpu metrics
+2025-09-12 19:12:12,332 - INFO - Collected 9 memory metrics
+2025-09-12 19:12:12,336 - INFO - Collected 16 disk metrics
+2025-09-12 19:12:12,339 - INFO - Collected 17 network metrics
+2025-09-12 19:12:12,341 - INFO - Collected 4 process metrics
+2025-09-12 19:12:12,341 - INFO - Health check completed in 2.02 seconds
+2025-09-12 19:12:12,342 - INFO - Collected 75 total metrics
+2025-09-12 19:12:12,351 - INFO - Metrics saved to /app/logs/health_metrics_20250912_191212.json
+2025-09-12 19:13:13,102 - INFO - Starting System Health Monitor
+2025-09-12 19:13:13,103 - INFO - SystemHealthMonitor initialized
+2025-09-12 19:13:13,104 - INFO - Starting comprehensive health check
+2025-09-12 19:13:15,107 - INFO - Collected 21 cpu metrics
+2025-09-12 19:13:15,109 - INFO - Collected 9 memory metrics
+2025-09-12 19:13:15,113 - INFO - Collected 16 disk metrics
+2025-09-12 19:13:15,117 - INFO - Collected 17 network metrics
+2025-09-12 19:13:15,118 - INFO - Collected 4 process metrics
+2025-09-12 19:13:15,119 - INFO - Health check completed in 2.02 seconds
+2025-09-12 19:13:15,120 - INFO - Collected 75 total metrics
+2025-09-12 19:13:15,129 - INFO - Metrics saved to /app/logs/health_metrics_20250912_191315.json
+2025-09-12 19:14:16,027 - INFO - Starting System Health Monitor
+2025-09-12 19:14:16,029 - INFO - SystemHealthMonitor initialized
+2025-09-12 19:14:16,029 - INFO - Starting comprehensive health check
+2025-09-12 19:14:18,034 - INFO - Collected 21 cpu metrics
+2025-09-12 19:14:18,036 - INFO - Collected 9 memory metrics
+2025-09-12 19:14:18,040 - INFO - Collected 16 disk metrics
+2025-09-12 19:14:18,044 - INFO - Collected 17 network metrics
+2025-09-12 19:14:18,045 - INFO - Collected 4 process metrics
+2025-09-12 19:14:18,046 - INFO - Health check completed in 2.02 seconds
+2025-09-12 19:14:18,047 - INFO - Collected 75 total metrics
+2025-09-12 19:14:18,057 - INFO - Metrics saved to /app/logs/health_metrics_20250912_191418.json
+2025-09-12 19:15:18,873 - INFO - Starting System Health Monitor
+2025-09-12 19:15:18,874 - INFO - SystemHealthMonitor initialized
+2025-09-12 19:15:18,874 - INFO - Starting comprehensive health check
+2025-09-12 19:15:20,878 - INFO - Collected 21 cpu metrics
+2025-09-12 19:15:20,880 - INFO - Collected 9 memory metrics
+2025-09-12 19:15:20,881 - INFO - Collected 16 disk metrics
+2025-09-12 19:15:20,884 - INFO - Collected 17 network metrics
+2025-09-12 19:15:20,885 - INFO - Collected 4 process metrics
+2025-09-12 19:15:20,886 - INFO - Health check completed in 2.01 seconds
+2025-09-12 19:15:20,886 - INFO - Collected 75 total metrics
+2025-09-12 19:15:20,895 - INFO - Metrics saved to /app/logs/health_metrics_20250912_191520.json
+2025-09-12 19:16:21,720 - INFO - Starting System Health Monitor
+2025-09-12 19:16:21,722 - INFO - SystemHealthMonitor initialized
+2025-09-12 19:16:21,722 - INFO - Starting comprehensive health check
+2025-09-12 19:16:23,727 - INFO - Collected 21 cpu metrics
+2025-09-12 19:16:23,728 - INFO - Collected 9 memory metrics
+2025-09-12 19:16:23,730 - INFO - Collected 16 disk metrics
+2025-09-12 19:16:23,733 - INFO - Collected 17 network metrics
+2025-09-12 19:16:23,734 - INFO - Collected 4 process metrics
+2025-09-12 19:16:23,734 - INFO - Health check completed in 2.01 seconds
+2025-09-12 19:16:23,735 - INFO - Collected 75 total metrics
+2025-09-12 19:16:23,740 - INFO - Metrics saved to /app/logs/health_metrics_20250912_191623.json
+2025-09-12 19:17:24,263 - INFO - Starting System Health Monitor
+2025-09-12 19:17:24,264 - INFO - SystemHealthMonitor initialized
+2025-09-12 19:17:24,264 - INFO - Starting comprehensive health check
+2025-09-12 19:17:26,268 - INFO - Collected 21 cpu metrics
+2025-09-12 19:17:26,268 - INFO - Collected 9 memory metrics
+2025-09-12 19:17:26,270 - INFO - Collected 16 disk metrics
+2025-09-12 19:17:26,271 - INFO - Collected 17 network metrics
+2025-09-12 19:17:26,272 - INFO - Collected 4 process metrics
+2025-09-12 19:17:26,272 - INFO - Health check completed in 2.01 seconds
+2025-09-12 19:17:26,273 - INFO - Collected 75 total metrics
+2025-09-12 19:17:26,277 - INFO - Metrics saved to /app/logs/health_metrics_20250912_191726.json
+2025-09-13 04:48:09,249 - INFO - Starting System Health Monitor
+2025-09-13 04:48:09,250 - INFO - SystemHealthMonitor initialized
+2025-09-13 04:48:09,250 - INFO - Starting comprehensive health check
+2025-09-13 04:48:11,254 - INFO - Collected 21 cpu metrics
+2025-09-13 04:48:11,255 - INFO - Collected 9 memory metrics
+2025-09-13 04:48:11,256 - INFO - Collected 16 disk metrics
+2025-09-13 04:48:11,258 - INFO - Collected 17 network metrics
+2025-09-13 04:48:11,258 - INFO - Collected 4 process metrics
+2025-09-13 04:48:11,258 - INFO - Health check completed in 2.01 seconds
+2025-09-13 04:48:11,259 - INFO - Collected 75 total metrics
+2025-09-13 04:48:11,262 - INFO - Metrics saved to /app/logs/health_metrics_20250913_044811.json
+2025-09-13 04:48:11,946 - INFO - Starting System Health Monitor
+2025-09-13 04:48:11,947 - INFO - SystemHealthMonitor initialized
+2025-09-13 04:48:11,947 - INFO - Starting comprehensive health check
+2025-09-13 04:48:13,951 - INFO - Collected 21 cpu metrics
+2025-09-13 04:48:13,952 - INFO - Collected 9 memory metrics
+2025-09-13 04:48:13,954 - INFO - Collected 16 disk metrics
+2025-09-13 04:48:13,955 - INFO - Collected 17 network metrics
+2025-09-13 04:48:13,956 - INFO - Collected 4 process metrics
+2025-09-13 04:48:13,957 - INFO - Health check completed in 2.01 seconds
+2025-09-13 04:48:13,957 - INFO - Collected 75 total metrics
+2025-09-13 04:48:13,961 - INFO - Metrics saved to /app/logs/health_metrics_20250913_044813.json
+2025-09-13 04:48:14,584 - INFO - Starting System Health Monitor
+2025-09-13 04:48:14,585 - INFO - SystemHealthMonitor initialized
+2025-09-13 04:48:14,585 - INFO - Starting comprehensive health check
+2025-09-13 04:48:16,588 - INFO - Collected 21 cpu metrics
+2025-09-13 04:48:16,589 - INFO - Collected 9 memory metrics
+2025-09-13 04:48:16,590 - INFO - Collected 16 disk metrics
+2025-09-13 04:48:16,592 - INFO - Collected 17 network metrics
+2025-09-13 04:48:16,592 - INFO - Collected 4 process metrics
+2025-09-13 04:48:16,592 - INFO - Health check completed in 2.01 seconds
+2025-09-13 04:48:16,593 - INFO - Collected 75 total metrics
+2025-09-13 04:48:16,596 - INFO - Metrics saved to /app/logs/health_metrics_20250913_044816.json
+2025-09-13 04:48:17,439 - INFO - Starting System Health Monitor
+2025-09-13 04:48:17,440 - INFO - SystemHealthMonitor initialized
+2025-09-13 04:48:17,440 - INFO - Starting comprehensive health check
+2025-09-13 04:48:19,445 - INFO - Collected 21 cpu metrics
+2025-09-13 04:48:19,447 - INFO - Collected 9 memory metrics
+2025-09-13 04:48:19,449 - INFO - Collected 16 disk metrics
+2025-09-13 04:48:19,451 - INFO - Collected 17 network metrics
+2025-09-13 04:48:19,452 - INFO - Collected 4 process metrics
+2025-09-13 04:48:19,452 - INFO - Health check completed in 2.01 seconds
+2025-09-13 04:48:19,452 - INFO - Collected 75 total metrics
+2025-09-13 04:48:19,458 - INFO - Metrics saved to /app/logs/health_metrics_20250913_044819.json
+2025-09-13 04:48:20,747 - INFO - Starting System Health Monitor
+2025-09-13 04:48:20,747 - INFO - SystemHealthMonitor initialized
+2025-09-13 04:48:20,748 - INFO - Starting comprehensive health check
+2025-09-13 04:48:22,752 - INFO - Collected 21 cpu metrics
+2025-09-13 04:48:22,754 - INFO - Collected 9 memory metrics
+2025-09-13 04:48:22,755 - INFO - Collected 16 disk metrics
+2025-09-13 04:48:22,757 - INFO - Collected 17 network metrics
+2025-09-13 04:48:22,757 - INFO - Collected 4 process metrics
+2025-09-13 04:48:22,758 - INFO - Health check completed in 2.01 seconds
+2025-09-13 04:48:22,758 - INFO - Collected 75 total metrics
+2025-09-13 04:48:22,761 - INFO - Metrics saved to /app/logs/health_metrics_20250913_044822.json
+2025-09-13 04:48:24,853 - INFO - Starting System Health Monitor
+2025-09-13 04:48:24,854 - INFO - SystemHealthMonitor initialized
+2025-09-13 04:48:24,854 - INFO - Starting comprehensive health check
+2025-09-13 04:48:26,858 - INFO - Collected 21 cpu metrics
+2025-09-13 04:48:26,859 - INFO - Collected 9 memory metrics
+2025-09-13 04:48:26,860 - INFO - Collected 16 disk metrics
+2025-09-13 04:48:26,862 - INFO - Collected 17 network metrics
+2025-09-13 04:48:26,863 - INFO - Collected 4 process metrics
+2025-09-13 04:48:26,863 - INFO - Health check completed in 2.01 seconds
+2025-09-13 04:48:26,863 - INFO - Collected 75 total metrics
+2025-09-13 04:48:26,866 - INFO - Metrics saved to /app/logs/health_metrics_20250913_044826.json
+2025-09-13 04:48:30,555 - INFO - Starting System Health Monitor
+2025-09-13 04:48:30,556 - INFO - SystemHealthMonitor initialized
+2025-09-13 04:48:30,556 - INFO - Starting comprehensive health check
+2025-09-13 04:48:32,560 - INFO - Collected 21 cpu metrics
+2025-09-13 04:48:32,561 - INFO - Collected 9 memory metrics
+2025-09-13 04:48:32,562 - INFO - Collected 16 disk metrics
+2025-09-13 04:48:32,563 - INFO - Collected 17 network metrics
+2025-09-13 04:48:32,564 - INFO - Collected 4 process metrics
+2025-09-13 04:48:32,564 - INFO - Health check completed in 2.01 seconds
+2025-09-13 04:48:32,564 - INFO - Collected 75 total metrics
+2025-09-13 04:48:32,567 - INFO - Metrics saved to /app/logs/health_metrics_20250913_044832.json
+2025-09-13 04:48:39,391 - INFO - Starting System Health Monitor
+2025-09-13 04:48:39,391 - INFO - SystemHealthMonitor initialized
+2025-09-13 04:48:39,392 - INFO - Starting comprehensive health check
+2025-09-13 04:48:41,395 - INFO - Collected 21 cpu metrics
+2025-09-13 04:48:41,396 - INFO - Collected 9 memory metrics
+2025-09-13 04:48:41,397 - INFO - Collected 16 disk metrics
+2025-09-13 04:48:41,399 - INFO - Collected 17 network metrics
+2025-09-13 04:48:41,400 - INFO - Collected 4 process metrics
+2025-09-13 04:48:41,400 - INFO - Health check completed in 2.01 seconds
+2025-09-13 04:48:41,401 - INFO - Collected 75 total metrics
+2025-09-13 04:48:41,404 - INFO - Metrics saved to /app/logs/health_metrics_20250913_044841.json
+2025-09-13 04:48:54,824 - INFO - Starting System Health Monitor
+2025-09-13 04:48:54,824 - INFO - SystemHealthMonitor initialized
+2025-09-13 04:48:54,825 - INFO - Starting comprehensive health check
+2025-09-13 04:48:56,828 - INFO - Collected 21 cpu metrics
+2025-09-13 04:48:56,829 - INFO - Collected 9 memory metrics
+2025-09-13 04:48:56,830 - INFO - Collected 16 disk metrics
+2025-09-13 04:48:56,831 - INFO - Collected 17 network metrics
+2025-09-13 04:48:56,832 - INFO - Collected 4 process metrics
+2025-09-13 04:48:56,832 - INFO - Health check completed in 2.01 seconds
+2025-09-13 04:48:56,833 - INFO - Collected 75 total metrics
+2025-09-13 04:48:56,836 - INFO - Metrics saved to /app/logs/health_metrics_20250913_044856.json
+2025-09-13 04:49:22,889 - INFO - Starting System Health Monitor
+2025-09-13 04:49:22,890 - INFO - SystemHealthMonitor initialized
+2025-09-13 04:49:22,890 - INFO - Starting comprehensive health check
+2025-09-13 04:49:24,894 - INFO - Collected 21 cpu metrics
+2025-09-13 04:49:24,895 - INFO - Collected 9 memory metrics
+2025-09-13 04:49:24,896 - INFO - Collected 16 disk metrics
+2025-09-13 04:49:24,898 - INFO - Collected 17 network metrics
+2025-09-13 04:49:24,899 - INFO - Collected 4 process metrics
+2025-09-13 04:49:24,899 - INFO - Health check completed in 2.01 seconds
+2025-09-13 04:49:24,899 - INFO - Collected 75 total metrics
+2025-09-13 04:49:24,901 - INFO - Metrics saved to /app/logs/health_metrics_20250913_044924.json
+2025-09-13 04:50:16,616 - INFO - Starting System Health Monitor
+2025-09-13 04:50:16,616 - INFO - SystemHealthMonitor initialized
+2025-09-13 04:50:16,617 - INFO - Starting comprehensive health check
+2025-09-13 04:50:18,620 - INFO - Collected 21 cpu metrics
+2025-09-13 04:50:18,621 - INFO - Collected 9 memory metrics
+2025-09-13 04:50:18,622 - INFO - Collected 16 disk metrics
+2025-09-13 04:50:18,624 - INFO - Collected 17 network metrics
+2025-09-13 04:50:18,624 - INFO - Collected 4 process metrics
+2025-09-13 04:50:18,625 - INFO - Health check completed in 2.01 seconds
+2025-09-13 04:50:18,625 - INFO - Collected 75 total metrics
+2025-09-13 04:50:18,628 - INFO - Metrics saved to /app/logs/health_metrics_20250913_045018.json
+2025-09-13 04:51:19,204 - INFO - Starting System Health Monitor
+2025-09-13 04:51:19,205 - INFO - SystemHealthMonitor initialized
+2025-09-13 04:51:19,205 - INFO - Starting comprehensive health check
+2025-09-13 04:51:21,208 - INFO - Collected 21 cpu metrics
+2025-09-13 04:51:21,209 - INFO - Collected 9 memory metrics
+2025-09-13 04:51:21,211 - INFO - Collected 16 disk metrics
+2025-09-13 04:51:21,213 - INFO - Collected 17 network metrics
+2025-09-13 04:51:21,214 - INFO - Collected 4 process metrics
+2025-09-13 04:51:21,214 - INFO - Health check completed in 2.01 seconds
+2025-09-13 04:51:21,214 - INFO - Collected 75 total metrics
+2025-09-13 04:51:21,218 - INFO - Metrics saved to /app/logs/health_metrics_20250913_045121.json
+2025-09-13 04:52:21,724 - INFO - Starting System Health Monitor
+2025-09-13 04:52:21,724 - INFO - SystemHealthMonitor initialized
+2025-09-13 04:52:21,725 - INFO - Starting comprehensive health check
+2025-09-13 04:52:23,729 - INFO - Collected 21 cpu metrics
+2025-09-13 04:52:23,731 - INFO - Collected 9 memory metrics
+2025-09-13 04:52:23,733 - INFO - Collected 16 disk metrics
+2025-09-13 04:52:23,735 - INFO - Collected 17 network metrics
+2025-09-13 04:52:23,736 - INFO - Collected 4 process metrics
+2025-09-13 04:52:23,737 - INFO - Health check completed in 2.01 seconds
+2025-09-13 04:52:23,737 - INFO - Collected 75 total metrics
+2025-09-13 04:52:23,742 - INFO - Metrics saved to /app/logs/health_metrics_20250913_045223.json
+2025-09-13 04:53:24,244 - INFO - Starting System Health Monitor
+2025-09-13 04:53:24,245 - INFO - SystemHealthMonitor initialized
+2025-09-13 04:53:24,245 - INFO - Starting comprehensive health check
+2025-09-13 04:53:26,248 - INFO - Collected 21 cpu metrics
+2025-09-13 04:53:26,249 - INFO - Collected 9 memory metrics
+2025-09-13 04:53:26,250 - INFO - Collected 16 disk metrics
+2025-09-13 04:53:26,252 - INFO - Collected 17 network metrics
+2025-09-13 04:53:26,253 - INFO - Collected 4 process metrics
+2025-09-13 04:53:26,253 - INFO - Health check completed in 2.01 seconds
+2025-09-13 04:53:26,254 - INFO - Collected 75 total metrics
+2025-09-13 04:53:26,258 - INFO - Metrics saved to /app/logs/health_metrics_20250913_045326.json
+2025-09-13 04:54:26,726 - INFO - Starting System Health Monitor
+2025-09-13 04:54:26,726 - INFO - SystemHealthMonitor initialized
+2025-09-13 04:54:26,726 - INFO - Starting comprehensive health check
+2025-09-13 04:54:28,730 - INFO - Collected 21 cpu metrics
+2025-09-13 04:54:28,731 - INFO - Collected 9 memory metrics
+2025-09-13 04:54:28,732 - INFO - Collected 16 disk metrics
+2025-09-13 04:54:28,734 - INFO - Collected 17 network metrics
+2025-09-13 04:54:28,735 - INFO - Collected 4 process metrics
+2025-09-13 04:54:28,735 - INFO - Health check completed in 2.01 seconds
+2025-09-13 04:54:28,735 - INFO - Collected 75 total metrics
+2025-09-13 04:54:28,738 - INFO - Metrics saved to /app/logs/health_metrics_20250913_045428.json
+2025-09-13 04:55:29,239 - INFO - Starting System Health Monitor
+2025-09-13 04:55:29,239 - INFO - SystemHealthMonitor initialized
+2025-09-13 04:55:29,240 - INFO - Starting comprehensive health check
+2025-09-13 04:55:31,243 - INFO - Collected 21 cpu metrics
+2025-09-13 04:55:31,244 - INFO - Collected 9 memory metrics
+2025-09-13 04:55:31,245 - INFO - Collected 16 disk metrics
+2025-09-13 04:55:31,246 - INFO - Collected 17 network metrics
+2025-09-13 04:55:31,247 - INFO - Collected 4 process metrics
+2025-09-13 04:55:31,247 - INFO - Health check completed in 2.01 seconds
+2025-09-13 04:55:31,248 - INFO - Collected 75 total metrics
+2025-09-13 04:55:31,252 - INFO - Metrics saved to /app/logs/health_metrics_20250913_045531.json
+2025-09-13 04:56:31,693 - INFO - Starting System Health Monitor
+2025-09-13 04:56:31,694 - INFO - SystemHealthMonitor initialized
+2025-09-13 04:56:31,694 - INFO - Starting comprehensive health check
+2025-09-13 04:56:33,698 - INFO - Collected 21 cpu metrics
+2025-09-13 04:56:33,700 - INFO - Collected 9 memory metrics
+2025-09-13 04:56:33,701 - INFO - Collected 16 disk metrics
+2025-09-13 04:56:33,704 - INFO - Collected 17 network metrics
+2025-09-13 04:56:33,705 - INFO - Collected 4 process metrics
+2025-09-13 04:56:33,705 - INFO - Health check completed in 2.01 seconds
+2025-09-13 04:56:33,705 - INFO - Collected 75 total metrics
+2025-09-13 04:56:33,708 - INFO - Metrics saved to /app/logs/health_metrics_20250913_045633.json
+2025-09-13 04:57:34,179 - INFO - Starting System Health Monitor
+2025-09-13 04:57:34,180 - INFO - SystemHealthMonitor initialized
+2025-09-13 04:57:34,180 - INFO - Starting comprehensive health check
+2025-09-13 04:57:36,182 - INFO - Collected 21 cpu metrics
+2025-09-13 04:57:36,183 - INFO - Collected 9 memory metrics
+2025-09-13 04:57:36,184 - INFO - Collected 16 disk metrics
+2025-09-13 04:57:36,185 - INFO - Collected 17 network metrics
+2025-09-13 04:57:36,186 - INFO - Collected 4 process metrics
+2025-09-13 04:57:36,186 - INFO - Health check completed in 2.01 seconds
+2025-09-13 04:57:36,186 - INFO - Collected 75 total metrics
+2025-09-13 04:57:36,189 - INFO - Metrics saved to /app/logs/health_metrics_20250913_045736.json
+2025-09-13 04:58:36,666 - INFO - Starting System Health Monitor
+2025-09-13 04:58:36,667 - INFO - SystemHealthMonitor initialized
+2025-09-13 04:58:36,667 - INFO - Starting comprehensive health check
+2025-09-13 04:58:38,672 - INFO - Collected 21 cpu metrics
+2025-09-13 04:58:38,673 - INFO - Collected 9 memory metrics
+2025-09-13 04:58:38,674 - INFO - Collected 16 disk metrics
+2025-09-13 04:58:38,675 - INFO - Collected 17 network metrics
+2025-09-13 04:58:38,676 - INFO - Collected 4 process metrics
+2025-09-13 04:58:38,676 - INFO - Health check completed in 2.01 seconds
+2025-09-13 04:58:38,677 - INFO - Collected 75 total metrics
+2025-09-13 04:58:38,681 - INFO - Metrics saved to /app/logs/health_metrics_20250913_045838.json
+2025-09-13 04:59:39,120 - INFO - Starting System Health Monitor
+2025-09-13 04:59:39,121 - INFO - SystemHealthMonitor initialized
+2025-09-13 04:59:39,121 - INFO - Starting comprehensive health check
+2025-09-13 04:59:41,124 - INFO - Collected 21 cpu metrics
+2025-09-13 04:59:41,126 - INFO - Collected 9 memory metrics
+2025-09-13 04:59:41,127 - INFO - Collected 16 disk metrics
+2025-09-13 04:59:41,129 - INFO - Collected 17 network metrics
+2025-09-13 04:59:41,130 - INFO - Collected 4 process metrics
+2025-09-13 04:59:41,130 - INFO - Health check completed in 2.01 seconds
+2025-09-13 04:59:41,131 - INFO - Collected 75 total metrics
+2025-09-13 04:59:41,134 - INFO - Metrics saved to /app/logs/health_metrics_20250913_045941.json
+2025-09-13 05:00:41,551 - INFO - Starting System Health Monitor
+2025-09-13 05:00:41,552 - INFO - SystemHealthMonitor initialized
+2025-09-13 05:00:41,552 - INFO - Starting comprehensive health check
+2025-09-13 05:00:43,557 - INFO - Collected 21 cpu metrics
+2025-09-13 05:00:43,559 - INFO - Collected 9 memory metrics
+2025-09-13 05:00:43,561 - INFO - Collected 16 disk metrics
+2025-09-13 05:00:43,563 - INFO - Collected 17 network metrics
+2025-09-13 05:00:43,564 - INFO - Collected 4 process metrics
+2025-09-13 05:00:43,564 - INFO - Health check completed in 2.01 seconds
+2025-09-13 05:00:43,565 - INFO - Collected 75 total metrics
+2025-09-13 05:00:43,568 - INFO - Metrics saved to /app/logs/health_metrics_20250913_050043.json
+2025-09-13 05:01:43,996 - INFO - Starting System Health Monitor
+2025-09-13 05:01:43,996 - INFO - SystemHealthMonitor initialized
+2025-09-13 05:01:43,997 - INFO - Starting comprehensive health check
+2025-09-13 05:01:46,000 - INFO - Collected 21 cpu metrics
+2025-09-13 05:01:46,001 - INFO - Collected 9 memory metrics
+2025-09-13 05:01:46,002 - INFO - Collected 16 disk metrics
+2025-09-13 05:01:46,004 - INFO - Collected 17 network metrics
+2025-09-13 05:01:46,004 - INFO - Collected 4 process metrics
+2025-09-13 05:01:46,005 - INFO - Health check completed in 2.01 seconds
+2025-09-13 05:01:46,005 - INFO - Collected 75 total metrics
+2025-09-13 05:01:46,008 - INFO - Metrics saved to /app/logs/health_metrics_20250913_050146.json
+2025-09-13 05:02:46,484 - INFO - Starting System Health Monitor
+2025-09-13 05:02:46,484 - INFO - SystemHealthMonitor initialized
+2025-09-13 05:02:46,484 - INFO - Starting comprehensive health check
+2025-09-13 05:02:48,488 - INFO - Collected 21 cpu metrics
+2025-09-13 05:02:48,490 - INFO - Collected 9 memory metrics
+2025-09-13 05:02:48,492 - INFO - Collected 16 disk metrics
+2025-09-13 05:02:48,494 - INFO - Collected 17 network metrics
+2025-09-13 05:02:48,495 - INFO - Collected 4 process metrics
+2025-09-13 05:02:48,496 - INFO - Health check completed in 2.01 seconds
+2025-09-13 05:02:48,496 - INFO - Collected 75 total metrics
+2025-09-13 05:02:48,500 - INFO - Metrics saved to /app/logs/health_metrics_20250913_050248.json
+2025-09-13 05:03:48,973 - INFO - Starting System Health Monitor
+2025-09-13 05:03:48,973 - INFO - SystemHealthMonitor initialized
+2025-09-13 05:03:48,974 - INFO - Starting comprehensive health check
+2025-09-13 05:03:50,978 - INFO - Collected 21 cpu metrics
+2025-09-13 05:03:50,979 - INFO - Collected 9 memory metrics
+2025-09-13 05:03:50,981 - INFO - Collected 16 disk metrics
+2025-09-13 05:03:50,982 - INFO - Collected 17 network metrics
+2025-09-13 05:03:50,983 - INFO - Collected 4 process metrics
+2025-09-13 05:03:50,983 - INFO - Health check completed in 2.01 seconds
+2025-09-13 05:03:50,984 - INFO - Collected 75 total metrics
+2025-09-13 05:03:50,987 - INFO - Metrics saved to /app/logs/health_metrics_20250913_050350.json
+2025-09-13 05:04:51,476 - INFO - Starting System Health Monitor
+2025-09-13 05:04:51,476 - INFO - SystemHealthMonitor initialized
+2025-09-13 05:04:51,476 - INFO - Starting comprehensive health check
+2025-09-13 05:04:53,480 - INFO - Collected 21 cpu metrics
+2025-09-13 05:04:53,481 - INFO - Collected 9 memory metrics
+2025-09-13 05:04:53,482 - INFO - Collected 16 disk metrics
+2025-09-13 05:04:53,483 - INFO - Collected 17 network metrics
+2025-09-13 05:04:53,484 - INFO - Collected 4 process metrics
+2025-09-13 05:04:53,484 - INFO - Health check completed in 2.01 seconds
+2025-09-13 05:04:53,484 - INFO - Collected 75 total metrics
+2025-09-13 05:04:53,487 - INFO - Metrics saved to /app/logs/health_metrics_20250913_050453.json
+2025-09-13 05:05:53,909 - INFO - Starting System Health Monitor
+2025-09-13 05:05:53,910 - INFO - SystemHealthMonitor initialized
+2025-09-13 05:05:53,910 - INFO - Starting comprehensive health check
+2025-09-13 05:05:55,913 - INFO - Collected 21 cpu metrics
+2025-09-13 05:05:55,914 - INFO - Collected 9 memory metrics
+2025-09-13 05:05:55,916 - INFO - Collected 16 disk metrics
+2025-09-13 05:05:55,917 - INFO - Collected 17 network metrics
+2025-09-13 05:05:55,918 - INFO - Collected 4 process metrics
+2025-09-13 05:05:55,918 - INFO - Health check completed in 2.01 seconds
+2025-09-13 05:05:55,919 - INFO - Collected 75 total metrics
+2025-09-13 05:05:55,922 - INFO - Metrics saved to /app/logs/health_metrics_20250913_050555.json
+2025-09-13 05:06:56,399 - INFO - Starting System Health Monitor
+2025-09-13 05:06:56,399 - INFO - SystemHealthMonitor initialized
+2025-09-13 05:06:56,400 - INFO - Starting comprehensive health check
+2025-09-13 05:06:58,403 - INFO - Collected 21 cpu metrics
+2025-09-13 05:06:58,404 - INFO - Collected 9 memory metrics
+2025-09-13 05:06:58,405 - INFO - Collected 16 disk metrics
+2025-09-13 05:06:58,407 - INFO - Collected 17 network metrics
+2025-09-13 05:06:58,408 - INFO - Collected 4 process metrics
+2025-09-13 05:06:58,408 - INFO - Health check completed in 2.01 seconds
+2025-09-13 05:06:58,409 - INFO - Collected 75 total metrics
+2025-09-13 05:06:58,412 - INFO - Metrics saved to /app/logs/health_metrics_20250913_050658.json
+2025-09-13 05:07:58,873 - INFO - Starting System Health Monitor
+2025-09-13 05:07:58,874 - INFO - SystemHealthMonitor initialized
+2025-09-13 05:07:58,875 - INFO - Starting comprehensive health check
+2025-09-13 05:08:00,878 - INFO - Collected 21 cpu metrics
+2025-09-13 05:08:00,879 - INFO - Collected 9 memory metrics
+2025-09-13 05:08:00,880 - INFO - Collected 16 disk metrics
+2025-09-13 05:08:00,881 - INFO - Collected 17 network metrics
+2025-09-13 05:08:00,882 - INFO - Collected 4 process metrics
+2025-09-13 05:08:00,882 - INFO - Health check completed in 2.01 seconds
+2025-09-13 05:08:00,883 - INFO - Collected 75 total metrics
+2025-09-13 05:08:00,888 - INFO - Metrics saved to /app/logs/health_metrics_20250913_050800.json
+2025-09-13 05:09:01,360 - INFO - Starting System Health Monitor
+2025-09-13 05:09:01,360 - INFO - SystemHealthMonitor initialized
+2025-09-13 05:09:01,361 - INFO - Starting comprehensive health check
+2025-09-13 05:09:03,364 - INFO - Collected 21 cpu metrics
+2025-09-13 05:09:03,365 - INFO - Collected 9 memory metrics
+2025-09-13 05:09:03,366 - INFO - Collected 16 disk metrics
+2025-09-13 05:09:03,367 - INFO - Collected 17 network metrics
+2025-09-13 05:09:03,368 - INFO - Collected 4 process metrics
+2025-09-13 05:09:03,368 - INFO - Health check completed in 2.01 seconds
+2025-09-13 05:09:03,368 - INFO - Collected 75 total metrics
+2025-09-13 05:09:03,372 - INFO - Metrics saved to /app/logs/health_metrics_20250913_050903.json
+2025-09-13 05:10:03,872 - INFO - Starting System Health Monitor
+2025-09-13 05:10:03,873 - INFO - SystemHealthMonitor initialized
+2025-09-13 05:10:03,874 - INFO - Starting comprehensive health check
+2025-09-13 05:10:05,876 - INFO - Collected 21 cpu metrics
+2025-09-13 05:10:05,877 - INFO - Collected 9 memory metrics
+2025-09-13 05:10:05,879 - INFO - Collected 16 disk metrics
+2025-09-13 05:10:05,881 - INFO - Collected 17 network metrics
+2025-09-13 05:10:05,881 - INFO - Collected 4 process metrics
+2025-09-13 05:10:05,882 - INFO - Health check completed in 2.01 seconds
+2025-09-13 05:10:05,883 - INFO - Collected 75 total metrics
+2025-09-13 05:10:05,886 - INFO - Metrics saved to /app/logs/health_metrics_20250913_051005.json
+2025-09-13 05:11:06,378 - INFO - Starting System Health Monitor
+2025-09-13 05:11:06,379 - INFO - SystemHealthMonitor initialized
+2025-09-13 05:11:06,379 - INFO - Starting comprehensive health check
+2025-09-13 05:11:08,383 - INFO - Collected 21 cpu metrics
+2025-09-13 05:11:08,384 - INFO - Collected 9 memory metrics
+2025-09-13 05:11:08,386 - INFO - Collected 16 disk metrics
+2025-09-13 05:11:08,388 - INFO - Collected 17 network metrics
+2025-09-13 05:11:08,389 - INFO - Collected 4 process metrics
+2025-09-13 05:11:08,389 - INFO - Health check completed in 2.01 seconds
+2025-09-13 05:11:08,390 - INFO - Collected 75 total metrics
+2025-09-13 05:11:08,395 - INFO - Metrics saved to /app/logs/health_metrics_20250913_051108.json
+2025-09-13 05:12:08,880 - INFO - Starting System Health Monitor
+2025-09-13 05:12:08,881 - INFO - SystemHealthMonitor initialized
+2025-09-13 05:12:08,881 - INFO - Starting comprehensive health check
+2025-09-13 05:12:10,884 - INFO - Collected 21 cpu metrics
+2025-09-13 05:12:10,885 - INFO - Collected 9 memory metrics
+2025-09-13 05:12:10,886 - INFO - Collected 16 disk metrics
+2025-09-13 05:12:10,888 - INFO - Collected 17 network metrics
+2025-09-13 05:12:10,888 - INFO - Collected 4 process metrics
+2025-09-13 05:12:10,889 - INFO - Health check completed in 2.01 seconds
+2025-09-13 05:12:10,889 - INFO - Collected 75 total metrics
+2025-09-13 05:12:10,892 - INFO - Metrics saved to /app/logs/health_metrics_20250913_051210.json
+2025-09-13 05:13:11,324 - INFO - Starting System Health Monitor
+2025-09-13 05:13:11,325 - INFO - SystemHealthMonitor initialized
+2025-09-13 05:13:11,325 - INFO - Starting comprehensive health check
+2025-09-13 05:13:13,328 - INFO - Collected 21 cpu metrics
+2025-09-13 05:13:13,329 - INFO - Collected 9 memory metrics
+2025-09-13 05:13:13,330 - INFO - Collected 16 disk metrics
+2025-09-13 05:13:13,332 - INFO - Collected 17 network metrics
+2025-09-13 05:13:13,333 - INFO - Collected 4 process metrics
+2025-09-13 05:13:13,333 - INFO - Health check completed in 2.01 seconds
+2025-09-13 05:13:13,333 - INFO - Collected 75 total metrics
+2025-09-13 05:13:13,337 - INFO - Metrics saved to /app/logs/health_metrics_20250913_051313.json
+2025-09-13 05:14:13,809 - INFO - Starting System Health Monitor
+2025-09-13 05:14:13,810 - INFO - SystemHealthMonitor initialized
+2025-09-13 05:14:13,810 - INFO - Starting comprehensive health check
+2025-09-13 05:14:15,813 - INFO - Collected 21 cpu metrics
+2025-09-13 05:14:15,814 - INFO - Collected 9 memory metrics
+2025-09-13 05:14:15,816 - INFO - Collected 16 disk metrics
+2025-09-13 05:14:15,817 - INFO - Collected 17 network metrics
+2025-09-13 05:14:15,818 - INFO - Collected 4 process metrics
+2025-09-13 05:14:15,818 - INFO - Health check completed in 2.01 seconds
+2025-09-13 05:14:15,819 - INFO - Collected 75 total metrics
+2025-09-13 05:14:15,823 - INFO - Metrics saved to /app/logs/health_metrics_20250913_051415.json
+2025-09-13 05:15:16,290 - INFO - Starting System Health Monitor
+2025-09-13 05:15:16,291 - INFO - SystemHealthMonitor initialized
+2025-09-13 05:15:16,291 - INFO - Starting comprehensive health check
+2025-09-13 05:15:18,294 - INFO - Collected 21 cpu metrics
+2025-09-13 05:15:18,295 - INFO - Collected 9 memory metrics
+2025-09-13 05:15:18,296 - INFO - Collected 16 disk metrics
+2025-09-13 05:15:18,298 - INFO - Collected 17 network metrics
+2025-09-13 05:15:18,298 - INFO - Collected 4 process metrics
+2025-09-13 05:15:18,299 - INFO - Health check completed in 2.01 seconds
+2025-09-13 05:15:18,299 - INFO - Collected 75 total metrics
+2025-09-13 05:15:18,302 - INFO - Metrics saved to /app/logs/health_metrics_20250913_051518.json
+2025-09-13 05:16:18,734 - INFO - Starting System Health Monitor
+2025-09-13 05:16:18,734 - INFO - SystemHealthMonitor initialized
+2025-09-13 05:16:18,734 - INFO - Starting comprehensive health check
+2025-09-13 05:16:20,738 - INFO - Collected 21 cpu metrics
+2025-09-13 05:16:20,739 - INFO - Collected 9 memory metrics
+2025-09-13 05:16:20,740 - INFO - Collected 16 disk metrics
+2025-09-13 05:16:20,742 - INFO - Collected 17 network metrics
+2025-09-13 05:16:20,743 - INFO - Collected 4 process metrics
+2025-09-13 05:16:20,743 - INFO - Health check completed in 2.01 seconds
+2025-09-13 05:16:20,743 - INFO - Collected 75 total metrics
+2025-09-13 05:16:20,747 - INFO - Metrics saved to /app/logs/health_metrics_20250913_051620.json
+2025-09-13 05:17:21,395 - INFO - Starting System Health Monitor
+2025-09-13 05:17:21,395 - INFO - SystemHealthMonitor initialized
+2025-09-13 05:17:21,396 - INFO - Starting comprehensive health check
+2025-09-13 05:17:23,399 - INFO - Collected 21 cpu metrics
+2025-09-13 05:17:23,400 - INFO - Collected 9 memory metrics
+2025-09-13 05:17:23,401 - INFO - Collected 16 disk metrics
+2025-09-13 05:17:23,402 - INFO - Collected 17 network metrics
+2025-09-13 05:17:23,403 - INFO - Collected 4 process metrics
+2025-09-13 05:17:23,403 - INFO - Health check completed in 2.01 seconds
+2025-09-13 05:17:23,404 - INFO - Collected 75 total metrics
+2025-09-13 05:17:23,407 - INFO - Metrics saved to /app/logs/health_metrics_20250913_051723.json
+2025-09-13 05:18:23,869 - INFO - Starting System Health Monitor
+2025-09-13 05:18:23,869 - INFO - SystemHealthMonitor initialized
+2025-09-13 05:18:23,870 - INFO - Starting comprehensive health check
+2025-09-13 05:18:25,874 - INFO - Collected 21 cpu metrics
+2025-09-13 05:18:25,875 - INFO - Collected 9 memory metrics
+2025-09-13 05:18:25,876 - INFO - Collected 16 disk metrics
+2025-09-13 05:18:25,877 - INFO - Collected 17 network metrics
+2025-09-13 05:18:25,879 - INFO - Collected 4 process metrics
+2025-09-13 05:18:25,879 - INFO - Health check completed in 2.01 seconds
+2025-09-13 05:18:25,879 - INFO - Collected 75 total metrics
+2025-09-13 05:18:25,882 - INFO - Metrics saved to /app/logs/health_metrics_20250913_051825.json
+2025-09-13 05:19:26,337 - INFO - Starting System Health Monitor
+2025-09-13 05:19:26,338 - INFO - SystemHealthMonitor initialized
+2025-09-13 05:19:26,338 - INFO - Starting comprehensive health check
+2025-09-13 05:19:28,342 - INFO - Collected 21 cpu metrics
+2025-09-13 05:19:28,343 - INFO - Collected 9 memory metrics
+2025-09-13 05:19:28,344 - INFO - Collected 16 disk metrics
+2025-09-13 05:19:28,345 - INFO - Collected 17 network metrics
+2025-09-13 05:19:28,346 - INFO - Collected 4 process metrics
+2025-09-13 05:19:28,346 - INFO - Health check completed in 2.01 seconds
+2025-09-13 05:19:28,347 - INFO - Collected 75 total metrics
+2025-09-13 05:19:28,351 - INFO - Metrics saved to /app/logs/health_metrics_20250913_051928.json
+2025-09-13 05:20:28,814 - INFO - Starting System Health Monitor
+2025-09-13 05:20:28,814 - INFO - SystemHealthMonitor initialized
+2025-09-13 05:20:28,815 - INFO - Starting comprehensive health check
+2025-09-13 05:20:30,818 - INFO - Collected 21 cpu metrics
+2025-09-13 05:20:30,819 - INFO - Collected 9 memory metrics
+2025-09-13 05:20:30,821 - INFO - Collected 16 disk metrics
+2025-09-13 05:20:30,823 - INFO - Collected 17 network metrics
+2025-09-13 05:20:30,823 - INFO - Collected 4 process metrics
+2025-09-13 05:20:30,824 - INFO - Health check completed in 2.01 seconds
+2025-09-13 05:20:30,824 - INFO - Collected 75 total metrics
+2025-09-13 05:20:30,829 - INFO - Metrics saved to /app/logs/health_metrics_20250913_052030.json
+2025-09-13 05:21:31,293 - INFO - Starting System Health Monitor
+2025-09-13 05:21:31,293 - INFO - SystemHealthMonitor initialized
+2025-09-13 05:21:31,294 - INFO - Starting comprehensive health check
+2025-09-13 05:21:33,298 - INFO - Collected 21 cpu metrics
+2025-09-13 05:21:33,299 - INFO - Collected 9 memory metrics
+2025-09-13 05:21:33,301 - INFO - Collected 16 disk metrics
+2025-09-13 05:21:33,303 - INFO - Collected 17 network metrics
+2025-09-13 05:21:33,304 - INFO - Collected 4 process metrics
+2025-09-13 05:21:33,305 - INFO - Health check completed in 2.01 seconds
+2025-09-13 05:21:33,305 - INFO - Collected 75 total metrics
+2025-09-13 05:21:33,308 - INFO - Metrics saved to /app/logs/health_metrics_20250913_052133.json
+2025-09-13 05:22:33,788 - INFO - Starting System Health Monitor
+2025-09-13 05:22:33,789 - INFO - SystemHealthMonitor initialized
+2025-09-13 05:22:33,789 - INFO - Starting comprehensive health check
+2025-09-13 05:22:35,791 - INFO - Collected 21 cpu metrics
+2025-09-13 05:22:35,792 - INFO - Collected 9 memory metrics
+2025-09-13 05:22:35,793 - INFO - Collected 16 disk metrics
+2025-09-13 05:22:35,795 - INFO - Collected 17 network metrics
+2025-09-13 05:22:35,795 - INFO - Collected 4 process metrics
+2025-09-13 05:22:35,796 - INFO - Health check completed in 2.01 seconds
+2025-09-13 05:22:35,796 - INFO - Collected 75 total metrics
+2025-09-13 05:22:35,798 - INFO - Metrics saved to /app/logs/health_metrics_20250913_052235.json
+2025-09-13 05:23:36,308 - INFO - Starting System Health Monitor
+2025-09-13 05:23:36,309 - INFO - SystemHealthMonitor initialized
+2025-09-13 05:23:36,309 - INFO - Starting comprehensive health check
+2025-09-13 05:23:38,313 - INFO - Collected 21 cpu metrics
+2025-09-13 05:23:38,313 - INFO - Collected 9 memory metrics
+2025-09-13 05:23:38,315 - INFO - Collected 16 disk metrics
+2025-09-13 05:23:38,316 - INFO - Collected 17 network metrics
+2025-09-13 05:23:38,317 - INFO - Collected 4 process metrics
+2025-09-13 05:23:38,318 - INFO - Health check completed in 2.01 seconds
+2025-09-13 05:23:38,318 - INFO - Collected 75 total metrics
+2025-09-13 05:23:38,321 - INFO - Metrics saved to /app/logs/health_metrics_20250913_052338.json
+2025-09-13 05:24:38,780 - INFO - Starting System Health Monitor
+2025-09-13 05:24:38,780 - INFO - SystemHealthMonitor initialized
+2025-09-13 05:24:38,781 - INFO - Starting comprehensive health check
+2025-09-13 05:24:40,784 - INFO - Collected 21 cpu metrics
+2025-09-13 05:24:40,785 - INFO - Collected 9 memory metrics
+2025-09-13 05:24:40,786 - INFO - Collected 16 disk metrics
+2025-09-13 05:24:40,788 - INFO - Collected 17 network metrics
+2025-09-13 05:24:40,788 - INFO - Collected 4 process metrics
+2025-09-13 05:24:40,789 - INFO - Health check completed in 2.01 seconds
+2025-09-13 05:24:40,789 - INFO - Collected 75 total metrics
+2025-09-13 05:24:40,791 - INFO - Metrics saved to /app/logs/health_metrics_20250913_052440.json
+2025-09-13 05:25:41,230 - INFO - Starting System Health Monitor
+2025-09-13 05:25:41,231 - INFO - SystemHealthMonitor initialized
+2025-09-13 05:25:41,231 - INFO - Starting comprehensive health check
+2025-09-13 05:25:43,234 - INFO - Collected 21 cpu metrics
+2025-09-13 05:25:43,236 - INFO - Collected 9 memory metrics
+2025-09-13 05:25:43,237 - INFO - Collected 16 disk metrics
+2025-09-13 05:25:43,238 - INFO - Collected 17 network metrics
+2025-09-13 05:25:43,239 - INFO - Collected 4 process metrics
+2025-09-13 05:25:43,239 - INFO - Health check completed in 2.01 seconds
+2025-09-13 05:25:43,240 - INFO - Collected 75 total metrics
+2025-09-13 05:25:43,243 - INFO - Metrics saved to /app/logs/health_metrics_20250913_052543.json
+2025-09-13 05:26:43,721 - INFO - Starting System Health Monitor
+2025-09-13 05:26:43,722 - INFO - SystemHealthMonitor initialized
+2025-09-13 05:26:43,722 - INFO - Starting comprehensive health check
+2025-09-13 05:26:45,725 - INFO - Collected 21 cpu metrics
+2025-09-13 05:26:45,726 - INFO - Collected 9 memory metrics
+2025-09-13 05:26:45,728 - INFO - Collected 16 disk metrics
+2025-09-13 05:26:45,729 - INFO - Collected 17 network metrics
+2025-09-13 05:26:45,729 - INFO - Collected 4 process metrics
+2025-09-13 05:26:45,730 - INFO - Health check completed in 2.01 seconds
+2025-09-13 05:26:45,730 - INFO - Collected 75 total metrics
+2025-09-13 05:26:45,733 - INFO - Metrics saved to /app/logs/health_metrics_20250913_052645.json
+2025-09-13 05:27:46,653 - INFO - Starting System Health Monitor
+2025-09-13 05:27:46,654 - INFO - SystemHealthMonitor initialized
+2025-09-13 05:27:46,655 - INFO - Starting comprehensive health check
+2025-09-13 05:27:48,660 - INFO - Collected 21 cpu metrics
+2025-09-13 05:27:48,661 - INFO - Collected 9 memory metrics
+2025-09-13 05:27:48,662 - INFO - Collected 16 disk metrics
+2025-09-13 05:27:48,664 - INFO - Collected 17 network metrics
+2025-09-13 05:27:48,665 - INFO - Collected 4 process metrics
+2025-09-13 05:27:48,666 - INFO - Health check completed in 2.01 seconds
+2025-09-13 05:27:48,666 - INFO - Collected 75 total metrics
+2025-09-13 05:27:48,672 - INFO - Metrics saved to /app/logs/health_metrics_20250913_052748.json
+2025-09-13 05:28:49,375 - INFO - Starting System Health Monitor
+2025-09-13 05:28:49,376 - INFO - SystemHealthMonitor initialized
+2025-09-13 05:28:49,377 - INFO - Starting comprehensive health check
+2025-09-13 05:28:51,380 - INFO - Collected 21 cpu metrics
+2025-09-13 05:28:51,382 - INFO - Collected 9 memory metrics
+2025-09-13 05:28:51,385 - INFO - Collected 16 disk metrics
+2025-09-13 05:28:51,387 - INFO - Collected 17 network metrics
+2025-09-13 05:28:51,388 - INFO - Collected 4 process metrics
+2025-09-13 05:28:51,389 - INFO - Health check completed in 2.01 seconds
+2025-09-13 05:28:51,389 - INFO - Collected 75 total metrics
+2025-09-13 05:28:51,397 - INFO - Metrics saved to /app/logs/health_metrics_20250913_052851.json
+2025-09-13 05:29:52,204 - INFO - Starting System Health Monitor
+2025-09-13 05:29:52,205 - INFO - SystemHealthMonitor initialized
+2025-09-13 05:29:52,205 - INFO - Starting comprehensive health check
+2025-09-13 05:29:54,210 - INFO - Collected 21 cpu metrics
+2025-09-13 05:29:54,212 - INFO - Collected 9 memory metrics
+2025-09-13 05:29:54,216 - INFO - Collected 16 disk metrics
+2025-09-13 05:29:54,219 - INFO - Collected 17 network metrics
+2025-09-13 05:29:54,220 - INFO - Collected 4 process metrics
+2025-09-13 05:29:54,222 - INFO - Health check completed in 2.02 seconds
+2025-09-13 05:29:54,223 - INFO - Collected 75 total metrics
+2025-09-13 05:29:54,231 - INFO - Metrics saved to /app/logs/health_metrics_20250913_052954.json
+2025-09-13 05:30:55,074 - INFO - Starting System Health Monitor
+2025-09-13 05:30:55,075 - INFO - SystemHealthMonitor initialized
+2025-09-13 05:30:55,075 - INFO - Starting comprehensive health check
+2025-09-13 05:30:57,080 - INFO - Collected 21 cpu metrics
+2025-09-13 05:30:57,081 - INFO - Collected 9 memory metrics
+2025-09-13 05:30:57,085 - INFO - Collected 16 disk metrics
+2025-09-13 05:30:57,087 - INFO - Collected 17 network metrics
+2025-09-13 05:30:57,088 - INFO - Collected 4 process metrics
+2025-09-13 05:30:57,089 - INFO - Health check completed in 2.01 seconds
+2025-09-13 05:30:57,090 - INFO - Collected 75 total metrics
+2025-09-13 05:30:57,096 - INFO - Metrics saved to /app/logs/health_metrics_20250913_053057.json
+2025-09-13 05:31:57,932 - INFO - Starting System Health Monitor
+2025-09-13 05:31:57,933 - INFO - SystemHealthMonitor initialized
+2025-09-13 05:31:57,934 - INFO - Starting comprehensive health check
+2025-09-13 05:31:59,939 - INFO - Collected 21 cpu metrics
+2025-09-13 05:31:59,941 - INFO - Collected 9 memory metrics
+2025-09-13 05:31:59,944 - INFO - Collected 16 disk metrics
+2025-09-13 05:31:59,947 - INFO - Collected 17 network metrics
+2025-09-13 05:31:59,948 - INFO - Collected 4 process metrics
+2025-09-13 05:31:59,949 - INFO - Health check completed in 2.02 seconds
+2025-09-13 05:31:59,950 - INFO - Collected 75 total metrics
+2025-09-13 05:31:59,958 - INFO - Metrics saved to /app/logs/health_metrics_20250913_053159.json
+2025-09-13 05:33:00,771 - INFO - Starting System Health Monitor
+2025-09-13 05:33:00,771 - INFO - SystemHealthMonitor initialized
+2025-09-13 05:33:00,772 - INFO - Starting comprehensive health check
+2025-09-13 05:33:02,776 - INFO - Collected 21 cpu metrics
+2025-09-13 05:33:02,777 - INFO - Collected 9 memory metrics
+2025-09-13 05:33:02,778 - INFO - Collected 16 disk metrics
+2025-09-13 05:33:02,780 - INFO - Collected 17 network metrics
+2025-09-13 05:33:02,781 - INFO - Collected 4 process metrics
+2025-09-13 05:33:02,782 - INFO - Health check completed in 2.01 seconds
+2025-09-13 05:33:02,782 - INFO - Collected 75 total metrics
+2025-09-13 05:33:02,787 - INFO - Metrics saved to /app/logs/health_metrics_20250913_053302.json
+2025-09-13 05:34:03,298 - INFO - Starting System Health Monitor
+2025-09-13 05:34:03,298 - INFO - SystemHealthMonitor initialized
+2025-09-13 05:34:03,299 - INFO - Starting comprehensive health check
+2025-09-13 05:34:05,301 - INFO - Collected 21 cpu metrics
+2025-09-13 05:34:05,302 - INFO - Collected 9 memory metrics
+2025-09-13 05:34:05,304 - INFO - Collected 16 disk metrics
+2025-09-13 05:34:05,305 - INFO - Collected 17 network metrics
+2025-09-13 05:34:05,306 - INFO - Collected 4 process metrics
+2025-09-13 05:34:05,306 - INFO - Health check completed in 2.01 seconds
+2025-09-13 05:34:05,307 - INFO - Collected 75 total metrics
+2025-09-13 05:34:05,310 - INFO - Metrics saved to /app/logs/health_metrics_20250913_053405.json
+2025-09-13 05:35:05,761 - INFO - Starting System Health Monitor
+2025-09-13 05:35:05,762 - INFO - SystemHealthMonitor initialized
+2025-09-13 05:35:05,762 - INFO - Starting comprehensive health check
+2025-09-13 05:35:07,766 - INFO - Collected 21 cpu metrics
+2025-09-13 05:35:07,768 - INFO - Collected 9 memory metrics
+2025-09-13 05:35:07,770 - INFO - Collected 16 disk metrics
+2025-09-13 05:35:07,771 - INFO - Collected 17 network metrics
+2025-09-13 05:35:07,772 - INFO - Collected 4 process metrics
+2025-09-13 05:35:07,772 - INFO - Health check completed in 2.01 seconds
+2025-09-13 05:35:07,773 - INFO - Collected 75 total metrics
+2025-09-13 05:35:07,776 - INFO - Metrics saved to /app/logs/health_metrics_20250913_053507.json
+2025-09-13 05:36:08,269 - INFO - Starting System Health Monitor
+2025-09-13 05:36:08,270 - INFO - SystemHealthMonitor initialized
+2025-09-13 05:36:08,270 - INFO - Starting comprehensive health check
+2025-09-13 05:36:10,275 - INFO - Collected 21 cpu metrics
+2025-09-13 05:36:10,276 - INFO - Collected 9 memory metrics
+2025-09-13 05:36:10,278 - INFO - Collected 16 disk metrics
+2025-09-13 05:36:10,281 - INFO - Collected 17 network metrics
+2025-09-13 05:36:10,282 - INFO - Collected 4 process metrics
+2025-09-13 05:36:10,282 - INFO - Health check completed in 2.01 seconds
+2025-09-13 05:36:10,283 - INFO - Collected 75 total metrics
+2025-09-13 05:36:10,286 - INFO - Metrics saved to /app/logs/health_metrics_20250913_053610.json
+2025-09-13 05:37:10,725 - INFO - Starting System Health Monitor
+2025-09-13 05:37:10,725 - INFO - SystemHealthMonitor initialized
+2025-09-13 05:37:10,726 - INFO - Starting comprehensive health check
+2025-09-13 05:37:12,730 - INFO - Collected 21 cpu metrics
+2025-09-13 05:37:12,730 - INFO - Collected 9 memory metrics
+2025-09-13 05:37:12,732 - INFO - Collected 16 disk metrics
+2025-09-13 05:37:12,733 - INFO - Collected 17 network metrics
+2025-09-13 05:37:12,734 - INFO - Collected 4 process metrics
+2025-09-13 05:37:12,734 - INFO - Health check completed in 2.01 seconds
+2025-09-13 05:37:12,734 - INFO - Collected 75 total metrics
+2025-09-13 05:37:12,738 - INFO - Metrics saved to /app/logs/health_metrics_20250913_053712.json
+2025-09-13 05:38:13,240 - INFO - Starting System Health Monitor
+2025-09-13 05:38:13,241 - INFO - SystemHealthMonitor initialized
+2025-09-13 05:38:13,241 - INFO - Starting comprehensive health check
+2025-09-13 05:49:01,517 - INFO - Collected 21 cpu metrics
+2025-09-13 05:49:01,519 - INFO - Collected 9 memory metrics
+2025-09-13 05:49:01,522 - INFO - Collected 16 disk metrics
+2025-09-13 05:49:01,524 - INFO - Collected 17 network metrics
+2025-09-13 05:49:01,525 - INFO - Collected 4 process metrics
+2025-09-13 05:49:01,525 - INFO - Health check completed in 648.28 seconds
+2025-09-13 05:49:01,526 - INFO - Collected 75 total metrics
+2025-09-13 05:49:01,529 - INFO - Metrics saved to /app/logs/health_metrics_20250913_054901.json
+2025-09-13 06:02:26,621 - INFO - Starting System Health Monitor
+2025-09-13 06:02:26,621 - INFO - SystemHealthMonitor initialized
+2025-09-13 06:02:26,621 - INFO - Starting comprehensive health check
+2025-09-13 06:02:28,625 - INFO - Collected 21 cpu metrics
+2025-09-13 06:02:28,626 - INFO - Collected 9 memory metrics
+2025-09-13 06:02:28,627 - INFO - Collected 16 disk metrics
+2025-09-13 06:02:28,629 - INFO - Collected 17 network metrics
+2025-09-13 06:02:28,630 - INFO - Collected 4 process metrics
+2025-09-13 06:02:28,630 - INFO - Health check completed in 2.01 seconds
+2025-09-13 06:02:28,630 - INFO - Collected 75 total metrics
+2025-09-13 06:02:28,633 - INFO - Metrics saved to /app/logs/health_metrics_20250913_060228.json
+2025-09-13 06:02:29,279 - INFO - Starting System Health Monitor
+2025-09-13 06:02:29,280 - INFO - SystemHealthMonitor initialized
+2025-09-13 06:02:29,280 - INFO - Starting comprehensive health check
+2025-09-13 06:02:31,284 - INFO - Collected 21 cpu metrics
+2025-09-13 06:02:31,285 - INFO - Collected 9 memory metrics
+2025-09-13 06:02:31,287 - INFO - Collected 16 disk metrics
+2025-09-13 06:02:31,289 - INFO - Collected 17 network metrics
+2025-09-13 06:02:31,290 - INFO - Collected 4 process metrics
+2025-09-13 06:02:31,291 - INFO - Health check completed in 2.01 seconds
+2025-09-13 06:02:31,291 - INFO - Collected 75 total metrics
+2025-09-13 06:02:31,296 - INFO - Metrics saved to /app/logs/health_metrics_20250913_060231.json
+2025-09-13 06:02:31,951 - INFO - Starting System Health Monitor
+2025-09-13 06:02:31,952 - INFO - SystemHealthMonitor initialized
+2025-09-13 06:02:31,952 - INFO - Starting comprehensive health check
+2025-09-13 06:02:33,956 - INFO - Collected 21 cpu metrics
+2025-09-13 06:02:33,958 - INFO - Collected 9 memory metrics
+2025-09-13 06:02:33,960 - INFO - Collected 16 disk metrics
+2025-09-13 06:02:33,962 - INFO - Collected 17 network metrics
+2025-09-13 06:02:33,963 - INFO - Collected 4 process metrics
+2025-09-13 06:02:33,963 - INFO - Health check completed in 2.01 seconds
+2025-09-13 06:02:33,964 - INFO - Collected 75 total metrics
+2025-09-13 06:02:33,968 - INFO - Metrics saved to /app/logs/health_metrics_20250913_060233.json
+2025-09-13 06:02:34,862 - INFO - Starting System Health Monitor
+2025-09-13 06:02:34,863 - INFO - SystemHealthMonitor initialized
+2025-09-13 06:02:34,863 - INFO - Starting comprehensive health check
+2025-09-13 06:02:36,867 - INFO - Collected 21 cpu metrics
+2025-09-13 06:02:36,868 - INFO - Collected 9 memory metrics
+2025-09-13 06:02:36,869 - INFO - Collected 16 disk metrics
+2025-09-13 06:02:36,871 - INFO - Collected 17 network metrics
+2025-09-13 06:02:36,872 - INFO - Collected 4 process metrics
+2025-09-13 06:02:36,872 - INFO - Health check completed in 2.01 seconds
+2025-09-13 06:02:36,872 - INFO - Collected 75 total metrics
+2025-09-13 06:02:36,876 - INFO - Metrics saved to /app/logs/health_metrics_20250913_060236.json
+2025-09-13 06:02:38,157 - INFO - Starting System Health Monitor
+2025-09-13 06:02:38,157 - INFO - SystemHealthMonitor initialized
+2025-09-13 06:02:38,158 - INFO - Starting comprehensive health check
+2025-09-13 06:02:40,162 - INFO - Collected 21 cpu metrics
+2025-09-13 06:02:40,163 - INFO - Collected 9 memory metrics
+2025-09-13 06:02:40,164 - INFO - Collected 16 disk metrics
+2025-09-13 06:02:40,166 - INFO - Collected 17 network metrics
+2025-09-13 06:02:40,167 - INFO - Collected 4 process metrics
+2025-09-13 06:02:40,167 - INFO - Health check completed in 2.01 seconds
+2025-09-13 06:02:40,167 - INFO - Collected 75 total metrics
+2025-09-13 06:02:40,170 - INFO - Metrics saved to /app/logs/health_metrics_20250913_060240.json
+2025-09-13 06:02:42,285 - INFO - Starting System Health Monitor
+2025-09-13 06:02:42,285 - INFO - SystemHealthMonitor initialized
+2025-09-13 06:02:42,286 - INFO - Starting comprehensive health check
+2025-09-13 06:02:44,289 - INFO - Collected 21 cpu metrics
+2025-09-13 06:02:44,290 - INFO - Collected 9 memory metrics
+2025-09-13 06:02:44,291 - INFO - Collected 16 disk metrics
+2025-09-13 06:02:44,293 - INFO - Collected 17 network metrics
+2025-09-13 06:02:44,293 - INFO - Collected 4 process metrics
+2025-09-13 06:02:44,294 - INFO - Health check completed in 2.01 seconds
+2025-09-13 06:02:44,294 - INFO - Collected 75 total metrics
+2025-09-13 06:02:44,298 - INFO - Metrics saved to /app/logs/health_metrics_20250913_060244.json
+2025-09-13 06:02:47,991 - INFO - Starting System Health Monitor
+2025-09-13 06:02:47,992 - INFO - SystemHealthMonitor initialized
+2025-09-13 06:02:47,992 - INFO - Starting comprehensive health check
+2025-09-13 06:02:49,996 - INFO - Collected 21 cpu metrics
+2025-09-13 06:02:49,997 - INFO - Collected 9 memory metrics
+2025-09-13 06:02:49,998 - INFO - Collected 16 disk metrics
+2025-09-13 06:02:50,000 - INFO - Collected 17 network metrics
+2025-09-13 06:02:50,001 - INFO - Collected 4 process metrics
+2025-09-13 06:02:50,002 - INFO - Health check completed in 2.01 seconds
+2025-09-13 06:02:50,002 - INFO - Collected 75 total metrics
+2025-09-13 06:02:50,007 - INFO - Metrics saved to /app/logs/health_metrics_20250913_060250.json
+2025-09-13 06:02:56,872 - INFO - Starting System Health Monitor
+2025-09-13 06:02:56,872 - INFO - SystemHealthMonitor initialized
+2025-09-13 06:02:56,873 - INFO - Starting comprehensive health check
+2025-09-13 06:02:58,876 - INFO - Collected 21 cpu metrics
+2025-09-13 06:02:58,878 - INFO - Collected 9 memory metrics
+2025-09-13 06:02:58,879 - INFO - Collected 16 disk metrics
+2025-09-13 06:02:58,881 - INFO - Collected 17 network metrics
+2025-09-13 06:02:58,882 - INFO - Collected 4 process metrics
+2025-09-13 06:02:58,882 - INFO - Health check completed in 2.01 seconds
+2025-09-13 06:02:58,883 - INFO - Collected 75 total metrics
+2025-09-13 06:02:58,887 - INFO - Metrics saved to /app/logs/health_metrics_20250913_060258.json
+2025-09-13 06:03:12,232 - INFO - Starting System Health Monitor
+2025-09-13 06:03:12,233 - INFO - SystemHealthMonitor initialized
+2025-09-13 06:03:12,233 - INFO - Starting comprehensive health check
+2025-09-13 06:03:14,236 - INFO - Collected 21 cpu metrics
+2025-09-13 06:03:14,238 - INFO - Collected 9 memory metrics
+2025-09-13 06:03:14,239 - INFO - Collected 16 disk metrics
+2025-09-13 06:03:14,240 - INFO - Collected 17 network metrics
+2025-09-13 06:03:14,241 - INFO - Collected 4 process metrics
+2025-09-13 06:03:14,241 - INFO - Health check completed in 2.01 seconds
+2025-09-13 06:03:14,242 - INFO - Collected 75 total metrics
+2025-09-13 06:03:14,249 - INFO - Metrics saved to /app/logs/health_metrics_20250913_060314.json
+2025-09-13 06:03:40,492 - INFO - Starting System Health Monitor
+2025-09-13 06:03:40,492 - INFO - SystemHealthMonitor initialized
+2025-09-13 06:03:40,493 - INFO - Starting comprehensive health check
+2025-09-13 06:03:42,496 - INFO - Collected 21 cpu metrics
+2025-09-13 06:03:42,498 - INFO - Collected 9 memory metrics
+2025-09-13 06:03:42,499 - INFO - Collected 16 disk metrics
+2025-09-13 06:03:42,501 - INFO - Collected 17 network metrics
+2025-09-13 06:03:42,502 - INFO - Collected 4 process metrics
+2025-09-13 06:03:42,502 - INFO - Health check completed in 2.01 seconds
+2025-09-13 06:03:42,502 - INFO - Collected 75 total metrics
+2025-09-13 06:03:42,506 - INFO - Metrics saved to /app/logs/health_metrics_20250913_060342.json
+2025-09-13 06:04:34,184 - INFO - Starting System Health Monitor
+2025-09-13 06:04:34,185 - INFO - SystemHealthMonitor initialized
+2025-09-13 06:04:34,185 - INFO - Starting comprehensive health check
+2025-09-13 06:04:36,187 - INFO - Collected 21 cpu metrics
+2025-09-13 06:04:36,188 - INFO - Collected 9 memory metrics
+2025-09-13 06:04:36,189 - INFO - Collected 16 disk metrics
+2025-09-13 06:04:36,190 - INFO - Collected 17 network metrics
+2025-09-13 06:04:36,191 - INFO - Collected 4 process metrics
+2025-09-13 06:04:36,191 - INFO - Health check completed in 2.01 seconds
+2025-09-13 06:04:36,192 - INFO - Collected 75 total metrics
+2025-09-13 06:04:36,196 - INFO - Metrics saved to /app/logs/health_metrics_20250913_060436.json
+2025-09-13 06:05:36,690 - INFO - Starting System Health Monitor
+2025-09-13 06:05:36,691 - INFO - SystemHealthMonitor initialized
+2025-09-13 06:05:36,692 - INFO - Starting comprehensive health check
+2025-09-13 06:05:38,695 - INFO - Collected 21 cpu metrics
+2025-09-13 06:05:38,696 - INFO - Collected 9 memory metrics
+2025-09-13 06:05:38,697 - INFO - Collected 16 disk metrics
+2025-09-13 06:05:38,698 - INFO - Collected 17 network metrics
+2025-09-13 06:05:38,699 - INFO - Collected 4 process metrics
+2025-09-13 06:05:38,699 - INFO - Health check completed in 2.01 seconds
+2025-09-13 06:05:38,700 - INFO - Collected 75 total metrics
+2025-09-13 06:05:38,702 - INFO - Metrics saved to /app/logs/health_metrics_20250913_060538.json
+2025-09-13 06:06:39,157 - INFO - Starting System Health Monitor
+2025-09-13 06:06:39,157 - INFO - SystemHealthMonitor initialized
+2025-09-13 06:06:39,158 - INFO - Starting comprehensive health check
+2025-09-13 06:06:41,162 - INFO - Collected 21 cpu metrics
+2025-09-13 06:06:41,163 - INFO - Collected 9 memory metrics
+2025-09-13 06:06:41,165 - INFO - Collected 16 disk metrics
+2025-09-13 06:06:41,166 - INFO - Collected 17 network metrics
+2025-09-13 06:06:41,167 - INFO - Collected 4 process metrics
+2025-09-13 06:06:41,168 - INFO - Health check completed in 2.01 seconds
+2025-09-13 06:06:41,168 - INFO - Collected 75 total metrics
+2025-09-13 06:06:41,171 - INFO - Metrics saved to /app/logs/health_metrics_20250913_060641.json
+2025-09-13 06:07:41,628 - INFO - Starting System Health Monitor
+2025-09-13 06:07:41,628 - INFO - SystemHealthMonitor initialized
+2025-09-13 06:07:41,629 - INFO - Starting comprehensive health check
+2025-09-13 06:07:43,632 - INFO - Collected 21 cpu metrics
+2025-09-13 06:07:43,633 - INFO - Collected 9 memory metrics
+2025-09-13 06:07:43,634 - INFO - Collected 16 disk metrics
+2025-09-13 06:07:43,636 - INFO - Collected 17 network metrics
+2025-09-13 06:07:43,636 - INFO - Collected 4 process metrics
+2025-09-13 06:07:43,636 - INFO - Health check completed in 2.01 seconds
+2025-09-13 06:07:43,637 - INFO - Collected 75 total metrics
+2025-09-13 06:07:43,640 - INFO - Metrics saved to /app/logs/health_metrics_20250913_060743.json
+2025-09-13 06:08:44,137 - INFO - Starting System Health Monitor
+2025-09-13 06:08:44,137 - INFO - SystemHealthMonitor initialized
+2025-09-13 06:08:44,137 - INFO - Starting comprehensive health check
+2025-09-13 06:08:46,141 - INFO - Collected 21 cpu metrics
+2025-09-13 06:08:46,142 - INFO - Collected 9 memory metrics
+2025-09-13 06:08:46,143 - INFO - Collected 16 disk metrics
+2025-09-13 06:08:46,144 - INFO - Collected 17 network metrics
+2025-09-13 06:08:46,145 - INFO - Collected 4 process metrics
+2025-09-13 06:08:46,145 - INFO - Health check completed in 2.01 seconds
+2025-09-13 06:08:46,145 - INFO - Collected 75 total metrics
+2025-09-13 06:08:46,148 - INFO - Metrics saved to /app/logs/health_metrics_20250913_060846.json
+2025-09-13 06:09:46,668 - INFO - Starting System Health Monitor
+2025-09-13 06:09:46,669 - INFO - SystemHealthMonitor initialized
+2025-09-13 06:09:46,669 - INFO - Starting comprehensive health check
+2025-09-13 06:09:48,673 - INFO - Collected 21 cpu metrics
+2025-09-13 06:09:48,675 - INFO - Collected 9 memory metrics
+2025-09-13 06:09:48,677 - INFO - Collected 16 disk metrics
+2025-09-13 06:09:48,678 - INFO - Collected 17 network metrics
+2025-09-13 06:09:48,679 - INFO - Collected 4 process metrics
+2025-09-13 06:09:48,680 - INFO - Health check completed in 2.01 seconds
+2025-09-13 06:09:48,680 - INFO - Collected 75 total metrics
+2025-09-13 06:09:48,685 - INFO - Metrics saved to /app/logs/health_metrics_20250913_060948.json
+2025-09-13 06:10:49,191 - INFO - Starting System Health Monitor
+2025-09-13 06:10:49,191 - INFO - SystemHealthMonitor initialized
+2025-09-13 06:10:49,192 - INFO - Starting comprehensive health check
+2025-09-13 06:10:51,195 - INFO - Collected 21 cpu metrics
+2025-09-13 06:10:51,196 - INFO - Collected 9 memory metrics
+2025-09-13 06:10:51,198 - INFO - Collected 16 disk metrics
+2025-09-13 06:10:51,199 - INFO - Collected 17 network metrics
+2025-09-13 06:10:51,200 - INFO - Collected 4 process metrics
+2025-09-13 06:10:51,201 - INFO - Health check completed in 2.01 seconds
+2025-09-13 06:10:51,201 - INFO - Collected 75 total metrics
+2025-09-13 06:10:51,207 - INFO - Metrics saved to /app/logs/health_metrics_20250913_061051.json
+2025-09-13 06:11:51,710 - INFO - Starting System Health Monitor
+2025-09-13 06:11:51,711 - INFO - SystemHealthMonitor initialized
+2025-09-13 06:11:51,711 - INFO - Starting comprehensive health check
+2025-09-13 06:11:53,714 - INFO - Collected 21 cpu metrics
+2025-09-13 06:11:53,715 - INFO - Collected 9 memory metrics
+2025-09-13 06:11:53,717 - INFO - Collected 16 disk metrics
+2025-09-13 06:11:53,718 - INFO - Collected 17 network metrics
+2025-09-13 06:11:53,719 - INFO - Collected 4 process metrics
+2025-09-13 06:11:53,719 - INFO - Health check completed in 2.01 seconds
+2025-09-13 06:11:53,720 - INFO - Collected 75 total metrics
+2025-09-13 06:11:53,724 - INFO - Metrics saved to /app/logs/health_metrics_20250913_061153.json
